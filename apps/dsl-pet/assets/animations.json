@@ -1,0 +1,3785 @@
+[
+  {
+    "name": "叉腰傲娇",
+    "key": "01-proud",
+    "frame_size": [
+      512,
+      512
+    ],
+    "frame_count": 6,
+    "playback_frame_order": [
+      0,
+      1,
+      2,
+      3,
+      4,
+      0
+    ],
+    "durations_ms": [
+      240,
+      140,
+      160,
+      360,
+      160,
+      240
+    ],
+    "loop": true,
+    "playback_mode": "loop",
+    "next_action": "idle",
+    "anchor": [
+      0.5,
+      0.94
+    ],
+    "atlas": "对齐六帧图.png",
+    "atlas_columns": 3,
+    "atlas_rows": 2,
+    "formats": {
+      "gif": "DeepSeek-Lite-叉腰傲娇.gif",
+      "webp": "DeepSeek-Lite-叉腰傲娇.webp",
+      "apng": "DeepSeek-Lite-叉腰傲娇.apng"
+    },
+    "source_frames": [
+      {
+        "frame": 0,
+        "source_rect": [
+          0,
+          0,
+          512,
+          516
+        ],
+        "source_alpha_bbox": [
+          29,
+          14,
+          456,
+          516
+        ],
+        "placement": [
+          72,
+          31
+        ],
+        "scale": 0.8957455268389662
+      },
+      {
+        "frame": 1,
+        "source_rect": [
+          512,
+          0,
+          1024,
+          516
+        ],
+        "source_alpha_bbox": [
+          39,
+          13,
+          468,
+          516
+        ],
+        "placement": [
+          77,
+          30
+        ],
+        "scale": 0.8957455268389662
+      },
+      {
+        "frame": 2,
+        "source_rect": [
+          1024,
+          0,
+          1536,
+          516
+        ],
+        "source_alpha_bbox": [
+          29,
+          21,
+          490,
+          516
+        ],
+        "placement": [
+          78,
+          38
+        ],
+        "scale": 0.8957455268389662
+      },
+      {
+        "frame": 3,
+        "source_rect": [
+          0,
+          516,
+          512,
+          1024
+        ],
+        "source_alpha_bbox": [
+          42,
+          0,
+          496,
+          500
+        ],
+        "placement": [
+          75,
+          33
+        ],
+        "scale": 0.8957455268389662
+      },
+      {
+        "frame": 4,
+        "source_rect": [
+          512,
+          516,
+          1024,
+          1024
+        ],
+        "source_alpha_bbox": [
+          38,
+          4,
+          468,
+          500
+        ],
+        "placement": [
+          75,
+          37
+        ],
+        "scale": 0.8957455268389662
+      },
+      {
+        "frame": 5,
+        "source_rect": [
+          1024,
+          516,
+          1536,
+          1024
+        ],
+        "source_alpha_bbox": [
+          37,
+          5,
+          473,
+          500
+        ],
+        "placement": [
+          72,
+          38
+        ],
+        "scale": 0.8957455268389662
+      }
+    ],
+    "frame_translation_px": [
+      0,
+      0,
+      0,
+      0,
+      0,
+      0
+    ],
+    "timeline_source_indices": [
+      0,
+      1,
+      2,
+      3,
+      4,
+      5
+    ],
+    "terminal_state": "idle"
+  },
+  {
+    "name": "不开心",
+    "key": "02-unhappy",
+    "frame_size": [
+      512,
+      512
+    ],
+    "frame_count": 6,
+    "playback_frame_order": [
+      0,
+      1,
+      2,
+      3,
+      4,
+      0
+    ],
+    "durations_ms": [
+      280,
+      150,
+      200,
+      320,
+      180,
+      280
+    ],
+    "loop": true,
+    "playback_mode": "loop",
+    "next_action": "idle",
+    "anchor": [
+      0.5,
+      0.94
+    ],
+    "atlas": "对齐六帧图.png",
+    "atlas_columns": 3,
+    "atlas_rows": 2,
+    "formats": {
+      "gif": "DeepSeek-Lite-不开心.gif",
+      "webp": "DeepSeek-Lite-不开心.webp",
+      "apng": "DeepSeek-Lite-不开心.apng"
+    },
+    "source_frames": [
+      {
+        "frame": 0,
+        "source_rect": [
+          0,
+          0,
+          512,
+          528
+        ],
+        "source_alpha_bbox": [
+          32,
+          7,
+          477,
+          528
+        ],
+        "placement": [
+          70,
+          31
+        ],
+        "scale": 0.8631417624521073
+      },
+      {
+        "frame": 1,
+        "source_rect": [
+          512,
+          0,
+          1024,
+          528
+        ],
+        "source_alpha_bbox": [
+          38,
+          10,
+          484,
+          528
+        ],
+        "placement": [
+          85,
+          34
+        ],
+        "scale": 0.8631417624521073
+      },
+      {
+        "frame": 2,
+        "source_rect": [
+          1024,
+          0,
+          1536,
+          528
+        ],
+        "source_alpha_bbox": [
+          24,
+          6,
+          499,
+          528
+        ],
+        "placement": [
+          69,
+          30
+        ],
+        "scale": 0.8631417624521073
+      },
+      {
+        "frame": 3,
+        "source_rect": [
+          0,
+          528,
+          512,
+          1024
+        ],
+        "source_alpha_bbox": [
+          61,
+          8,
+          476,
+          493
+        ],
+        "placement": [
+          100,
+          62
+        ],
+        "scale": 0.8631417624521073
+      },
+      {
+        "frame": 4,
+        "source_rect": [
+          512,
+          528,
+          1024,
+          1024
+        ],
+        "source_alpha_bbox": [
+          38,
+          7,
+          480,
+          493
+        ],
+        "placement": [
+          80,
+          62
+        ],
+        "scale": 0.8631417624521073
+      },
+      {
+        "frame": 5,
+        "source_rect": [
+          1024,
+          528,
+          1536,
+          1024
+        ],
+        "source_alpha_bbox": [
+          31,
+          5,
+          477,
+          493
+        ],
+        "placement": [
+          74,
+          60
+        ],
+        "scale": 0.8631417624521073
+      }
+    ],
+    "frame_translation_px": [
+      0,
+      0,
+      0,
+      0,
+      0,
+      0
+    ],
+    "timeline_source_indices": [
+      0,
+      1,
+      2,
+      3,
+      4,
+      5
+    ],
+    "terminal_state": "idle"
+  },
+  {
+    "name": "道歉",
+    "key": "03-apology",
+    "frame_size": [
+      512,
+      512
+    ],
+    "frame_count": 6,
+    "playback_frame_order": [
+      0,
+      1,
+      2,
+      3,
+      4,
+      0
+    ],
+    "durations_ms": [
+      280,
+      200,
+      220,
+      420,
+      220,
+      280
+    ],
+    "loop": true,
+    "playback_mode": "loop",
+    "next_action": "idle",
+    "anchor": [
+      0.5,
+      0.94
+    ],
+    "atlas": "对齐六帧图.png",
+    "atlas_columns": 3,
+    "atlas_rows": 2,
+    "formats": {
+      "gif": "DeepSeek-Lite-道歉.gif",
+      "webp": "DeepSeek-Lite-道歉.webp",
+      "apng": "DeepSeek-Lite-道歉.apng"
+    },
+    "source_frames": [
+      {
+        "frame": 0,
+        "source_rect": [
+          0,
+          0,
+          512,
+          523
+        ],
+        "source_alpha_bbox": [
+          57,
+          13,
+          478,
+          523
+        ],
+        "placement": [
+          75,
+          30
+        ],
+        "scale": 0.8834509803921569
+      },
+      {
+        "frame": 1,
+        "source_rect": [
+          512,
+          0,
+          1024,
+          523
+        ],
+        "source_alpha_bbox": [
+          50,
+          34,
+          487,
+          523
+        ],
+        "placement": [
+          87,
+          49
+        ],
+        "scale": 0.8834509803921569
+      },
+      {
+        "frame": 2,
+        "source_rect": [
+          1024,
+          0,
+          1536,
+          523
+        ],
+        "source_alpha_bbox": [
+          50,
+          54,
+          479,
+          523
+        ],
+        "placement": [
+          93,
+          67
+        ],
+        "scale": 0.8834509803921569
+      },
+      {
+        "frame": 3,
+        "source_rect": [
+          0,
+          523,
+          526,
+          1024
+        ],
+        "source_alpha_bbox": [
+          86,
+          75,
+          526,
+          495
+        ],
+        "placement": [
+          87,
+          110
+        ],
+        "scale": 0.8834509803921569
+      },
+      {
+        "frame": 4,
+        "source_rect": [
+          526,
+          523,
+          1024,
+          1024
+        ],
+        "source_alpha_bbox": [
+          40,
+          15,
+          476,
+          496
+        ],
+        "placement": [
+          89,
+          56
+        ],
+        "scale": 0.8834509803921569
+      },
+      {
+        "frame": 5,
+        "source_rect": [
+          1024,
+          523,
+          1536,
+          1024
+        ],
+        "source_alpha_bbox": [
+          55,
+          8,
+          464,
+          500
+        ],
+        "placement": [
+          78,
+          46
+        ],
+        "scale": 0.8834509803921569
+      }
+    ],
+    "frame_translation_px": [
+      0,
+      0,
+      0,
+      0,
+      0,
+      0
+    ],
+    "timeline_source_indices": [
+      0,
+      1,
+      2,
+      3,
+      4,
+      5
+    ],
+    "terminal_state": "idle"
+  },
+  {
+    "name": "蹲着玩车车",
+    "key": "04-toy-car",
+    "frame_size": [
+      512,
+      512
+    ],
+    "frame_count": 6,
+    "playback_frame_order": [
+      0,
+      1,
+      2,
+      3,
+      4,
+      0
+    ],
+    "durations_ms": [
+      260,
+      180,
+      260,
+      180,
+      240,
+      260
+    ],
+    "loop": true,
+    "playback_mode": "loop",
+    "next_action": "idle",
+    "anchor": [
+      0.5,
+      0.94
+    ],
+    "atlas": "对齐六帧图.png",
+    "atlas_columns": 3,
+    "atlas_rows": 2,
+    "formats": {
+      "gif": "DeepSeek-Lite-蹲着玩车车.gif",
+      "webp": "DeepSeek-Lite-蹲着玩车车.webp",
+      "apng": "DeepSeek-Lite-蹲着玩车车.apng"
+    },
+    "source_frames": [
+      {
+        "frame": 0,
+        "source_rect": [
+          0,
+          0,
+          512,
+          512
+        ],
+        "source_alpha_bbox": [
+          36,
+          13,
+          512,
+          499
+        ],
+        "placement": [
+          66,
+          40
+        ],
+        "scale": 0.9083870967741936
+      },
+      {
+        "frame": 1,
+        "source_rect": [
+          512,
+          0,
+          1024,
+          512
+        ],
+        "source_alpha_bbox": [
+          29,
+          22,
+          501,
+          497
+        ],
+        "placement": [
+          63,
+          50
+        ],
+        "scale": 0.9083870967741936
+      },
+      {
+        "frame": 2,
+        "source_rect": [
+          1024,
+          0,
+          1536,
+          512
+        ],
+        "source_alpha_bbox": [
+          25,
+          26,
+          503,
+          496
+        ],
+        "placement": [
+          62,
+          54
+        ],
+        "scale": 0.9083870967741936
+      },
+      {
+        "frame": 3,
+        "source_rect": [
+          0,
+          512,
+          522,
+          1024
+        ],
+        "source_alpha_bbox": [
+          26,
+          6,
+          522,
+          471
+        ],
+        "placement": [
+          43,
+          59
+        ],
+        "scale": 0.9083870967741936
+      },
+      {
+        "frame": 4,
+        "source_rect": [
+          522,
+          512,
+          1024,
+          1024
+        ],
+        "source_alpha_bbox": [
+          31,
+          6,
+          493,
+          477
+        ],
+        "placement": [
+          68,
+          53
+        ],
+        "scale": 0.9083870967741936
+      },
+      {
+        "frame": 5,
+        "source_rect": [
+          1024,
+          512,
+          1536,
+          1024
+        ],
+        "source_alpha_bbox": [
+          25,
+          6,
+          500,
+          483
+        ],
+        "placement": [
+          65,
+          48
+        ],
+        "scale": 0.9083870967741936
+      }
+    ],
+    "frame_translation_px": [
+      0,
+      0,
+      0,
+      0,
+      0,
+      0
+    ],
+    "timeline_source_indices": [
+      0,
+      1,
+      2,
+      3,
+      4,
+      5
+    ],
+    "terminal_state": "idle"
+  },
+  {
+    "name": "吃一大碗白米饭",
+    "key": "05-rice",
+    "frame_size": [
+      512,
+      512
+    ],
+    "frame_count": 6,
+    "playback_frame_order": [
+      0,
+      1,
+      2,
+      3,
+      4,
+      0
+    ],
+    "durations_ms": [
+      300,
+      180,
+      220,
+      340,
+      200,
+      300
+    ],
+    "loop": true,
+    "playback_mode": "loop",
+    "next_action": "idle",
+    "anchor": [
+      0.5,
+      0.94
+    ],
+    "atlas": "对齐六帧图.png",
+    "atlas_columns": 3,
+    "atlas_rows": 2,
+    "formats": {
+      "gif": "DeepSeek-Lite-吃一大碗白米饭.gif",
+      "webp": "DeepSeek-Lite-吃一大碗白米饭.webp",
+      "apng": "DeepSeek-Lite-吃一大碗白米饭.apng"
+    },
+    "source_frames": [
+      {
+        "frame": 0,
+        "source_rect": [
+          0,
+          0,
+          512,
+          512
+        ],
+        "source_alpha_bbox": [
+          33,
+          11,
+          465,
+          511
+        ],
+        "placement": [
+          70,
+          30
+        ],
+        "scale": 0.90112
+      },
+      {
+        "frame": 1,
+        "source_rect": [
+          512,
+          0,
+          1024,
+          512
+        ],
+        "source_alpha_bbox": [
+          39,
+          11,
+          461,
+          511
+        ],
+        "placement": [
+          75,
+          30
+        ],
+        "scale": 0.90112
+      },
+      {
+        "frame": 2,
+        "source_rect": [
+          1024,
+          0,
+          1536,
+          512
+        ],
+        "source_alpha_bbox": [
+          46,
+          11,
+          459,
+          511
+        ],
+        "placement": [
+          81,
+          30
+        ],
+        "scale": 0.90112
+      },
+      {
+        "frame": 3,
+        "source_rect": [
+          0,
+          512,
+          512,
+          1024
+        ],
+        "source_alpha_bbox": [
+          36,
+          9,
+          469,
+          502
+        ],
+        "placement": [
+          67,
+          37
+        ],
+        "scale": 0.90112
+      },
+      {
+        "frame": 4,
+        "source_rect": [
+          512,
+          512,
+          1024,
+          1024
+        ],
+        "source_alpha_bbox": [
+          40,
+          9,
+          468,
+          502
+        ],
+        "placement": [
+          77,
+          37
+        ],
+        "scale": 0.90112
+      },
+      {
+        "frame": 5,
+        "source_rect": [
+          1024,
+          512,
+          1536,
+          1024
+        ],
+        "source_alpha_bbox": [
+          34,
+          9,
+          464,
+          502
+        ],
+        "placement": [
+          72,
+          37
+        ],
+        "scale": 0.90112
+      }
+    ],
+    "frame_translation_px": [
+      0,
+      0,
+      0,
+      0,
+      0,
+      0
+    ],
+    "timeline_source_indices": [
+      0,
+      1,
+      2,
+      3,
+      4,
+      5
+    ],
+    "terminal_state": "idle"
+  },
+  {
+    "name": "打哈欠",
+    "key": "06-yawn",
+    "frame_size": [
+      512,
+      512
+    ],
+    "frame_count": 6,
+    "playback_frame_order": [
+      0,
+      1,
+      2,
+      3,
+      4,
+      0
+    ],
+    "durations_ms": [
+      300,
+      180,
+      240,
+      380,
+      180,
+      300
+    ],
+    "loop": true,
+    "playback_mode": "loop",
+    "next_action": "idle",
+    "anchor": [
+      0.5,
+      0.94
+    ],
+    "atlas": "对齐六帧图.png",
+    "atlas_columns": 3,
+    "atlas_rows": 2,
+    "formats": {
+      "gif": "DeepSeek-Lite-打哈欠.gif",
+      "webp": "DeepSeek-Lite-打哈欠.webp",
+      "apng": "DeepSeek-Lite-打哈欠.apng"
+    },
+    "source_frames": [
+      {
+        "frame": 0,
+        "source_rect": [
+          0,
+          0,
+          512,
+          521
+        ],
+        "source_alpha_bbox": [
+          48,
+          9,
+          488,
+          521
+        ],
+        "placement": [
+          76,
+          33
+        ],
+        "scale": 0.874873786407767
+      },
+      {
+        "frame": 1,
+        "source_rect": [
+          512,
+          0,
+          1024,
+          521
+        ],
+        "source_alpha_bbox": [
+          44,
+          8,
+          478,
+          521
+        ],
+        "placement": [
+          83,
+          32
+        ],
+        "scale": 0.874873786407767
+      },
+      {
+        "frame": 2,
+        "source_rect": [
+          1024,
+          0,
+          1536,
+          521
+        ],
+        "source_alpha_bbox": [
+          30,
+          6,
+          475,
+          521
+        ],
+        "placement": [
+          79,
+          30
+        ],
+        "scale": 0.874873786407767
+      },
+      {
+        "frame": 3,
+        "source_rect": [
+          0,
+          521,
+          512,
+          1024
+        ],
+        "source_alpha_bbox": [
+          40,
+          3,
+          487,
+          503
+        ],
+        "placement": [
+          71,
+          44
+        ],
+        "scale": 0.874873786407767
+      },
+      {
+        "frame": 4,
+        "source_rect": [
+          512,
+          521,
+          1024,
+          1024
+        ],
+        "source_alpha_bbox": [
+          45,
+          2,
+          476,
+          503
+        ],
+        "placement": [
+          82,
+          43
+        ],
+        "scale": 0.874873786407767
+      },
+      {
+        "frame": 5,
+        "source_rect": [
+          1024,
+          521,
+          1536,
+          1024
+        ],
+        "source_alpha_bbox": [
+          31,
+          2,
+          473,
+          503
+        ],
+        "placement": [
+          75,
+          43
+        ],
+        "scale": 0.874873786407767
+      }
+    ],
+    "frame_translation_px": [
+      0,
+      0,
+      0,
+      0,
+      0,
+      0
+    ],
+    "timeline_source_indices": [
+      0,
+      1,
+      2,
+      3,
+      4,
+      5
+    ],
+    "terminal_state": "idle"
+  },
+  {
+    "name": "想到了鬼点子",
+    "key": "07-idea",
+    "frame_size": [
+      512,
+      512
+    ],
+    "frame_count": 6,
+    "playback_frame_order": [
+      0,
+      1,
+      2,
+      3,
+      4,
+      0
+    ],
+    "durations_ms": [
+      260,
+      180,
+      180,
+      420,
+      180,
+      260
+    ],
+    "loop": true,
+    "playback_mode": "loop",
+    "next_action": "idle",
+    "anchor": [
+      0.5,
+      0.94
+    ],
+    "atlas": "对齐六帧图.png",
+    "atlas_columns": 3,
+    "atlas_rows": 2,
+    "formats": {
+      "gif": "DeepSeek-Lite-想到了鬼点子.gif",
+      "webp": "DeepSeek-Lite-想到了鬼点子.webp",
+      "apng": "DeepSeek-Lite-想到了鬼点子.apng"
+    },
+    "source_frames": [
+      {
+        "frame": 0,
+        "source_rect": [
+          0,
+          0,
+          512,
+          515
+        ],
+        "source_alpha_bbox": [
+          46,
+          10,
+          475,
+          515
+        ],
+        "placement": [
+          74,
+          32
+        ],
+        "scale": 0.8886785009861933
+      },
+      {
+        "frame": 1,
+        "source_rect": [
+          512,
+          0,
+          1024,
+          515
+        ],
+        "source_alpha_bbox": [
+          33,
+          11,
+          468,
+          515
+        ],
+        "placement": [
+          82,
+          33
+        ],
+        "scale": 0.8886785009861933
+      },
+      {
+        "frame": 2,
+        "source_rect": [
+          1024,
+          0,
+          1536,
+          515
+        ],
+        "source_alpha_bbox": [
+          26,
+          8,
+          456,
+          515
+        ],
+        "placement": [
+          72,
+          30
+        ],
+        "scale": 0.8886785009861933
+      },
+      {
+        "frame": 3,
+        "source_rect": [
+          0,
+          515,
+          512,
+          1024
+        ],
+        "source_alpha_bbox": [
+          33,
+          5,
+          490,
+          504
+        ],
+        "placement": [
+          57,
+          38
+        ],
+        "scale": 0.8886785009861933
+      },
+      {
+        "frame": 4,
+        "source_rect": [
+          512,
+          515,
+          1024,
+          1024
+        ],
+        "source_alpha_bbox": [
+          45,
+          9,
+          481,
+          504
+        ],
+        "placement": [
+          76,
+          41
+        ],
+        "scale": 0.8886785009861933
+      },
+      {
+        "frame": 5,
+        "source_rect": [
+          1024,
+          515,
+          1536,
+          1024
+        ],
+        "source_alpha_bbox": [
+          39,
+          8,
+          470,
+          504
+        ],
+        "placement": [
+          74,
+          40
+        ],
+        "scale": 0.8886785009861933
+      }
+    ],
+    "frame_translation_px": [
+      0,
+      0,
+      0,
+      0,
+      0,
+      0
+    ],
+    "timeline_source_indices": [
+      0,
+      1,
+      2,
+      3,
+      4,
+      5
+    ],
+    "terminal_state": "idle"
+  },
+  {
+    "name": "笨拙转圈",
+    "key": "08-spin",
+    "frame_size": [
+      512,
+      512
+    ],
+    "frame_count": 6,
+    "playback_frame_order": [
+      0,
+      1,
+      2,
+      3,
+      4,
+      5
+    ],
+    "durations_ms": [
+      220,
+      160,
+      160,
+      180,
+      280,
+      420
+    ],
+    "loop": false,
+    "playback_mode": "once",
+    "next_action": "idle",
+    "anchor": [
+      0.5,
+      0.94
+    ],
+    "atlas": "对齐六帧图.png",
+    "atlas_columns": 3,
+    "atlas_rows": 2,
+    "formats": {
+      "gif": "DeepSeek-Lite-笨拙转圈.gif",
+      "webp": "DeepSeek-Lite-笨拙转圈.webp",
+      "apng": "DeepSeek-Lite-笨拙转圈.apng"
+    },
+    "source_frames": [
+      {
+        "frame": 0,
+        "source_rect": [
+          0,
+          0,
+          512,
+          512
+        ],
+        "source_alpha_bbox": [
+          56,
+          13,
+          480,
+          512
+        ],
+        "placement": [
+          71,
+          30
+        ],
+        "scale": 0.9029258517034068
+      },
+      {
+        "frame": 1,
+        "source_rect": [
+          512,
+          0,
+          1024,
+          512
+        ],
+        "source_alpha_bbox": [
+          40,
+          14,
+          492,
+          512
+        ],
+        "placement": [
+          98,
+          31
+        ],
+        "scale": 0.9029258517034068
+      },
+      {
+        "frame": 2,
+        "source_rect": [
+          1024,
+          0,
+          1536,
+          512
+        ],
+        "source_alpha_bbox": [
+          23,
+          14,
+          466,
+          512
+        ],
+        "placement": [
+          62,
+          31
+        ],
+        "scale": 0.9029258517034068
+      },
+      {
+        "frame": 3,
+        "source_rect": [
+          0,
+          512,
+          512,
+          1024
+        ],
+        "source_alpha_bbox": [
+          28,
+          9,
+          431,
+          492
+        ],
+        "placement": [
+          36,
+          45
+        ],
+        "scale": 0.9029258517034068
+      },
+      {
+        "frame": 4,
+        "source_rect": [
+          512,
+          512,
+          1024,
+          1024
+        ],
+        "source_alpha_bbox": [
+          32,
+          7,
+          472,
+          492
+        ],
+        "placement": [
+          43,
+          43
+        ],
+        "scale": 0.9029258517034068
+      },
+      {
+        "frame": 5,
+        "source_rect": [
+          1024,
+          512,
+          1536,
+          1024
+        ],
+        "source_alpha_bbox": [
+          51,
+          10,
+          453,
+          491
+        ],
+        "placement": [
+          86,
+          47
+        ],
+        "scale": 0.9029258517034068
+      }
+    ],
+    "frame_translation_px": [
+      0,
+      0,
+      0,
+      0,
+      0,
+      0
+    ],
+    "timeline_source_indices": [
+      0,
+      1,
+      2,
+      3,
+      4,
+      5
+    ],
+    "terminal_state": "idle"
+  },
+  {
+    "name": "坐地头晕",
+    "key": "09-dizzy",
+    "frame_size": [
+      512,
+      512
+    ],
+    "frame_count": 6,
+    "playback_frame_order": [
+      0,
+      1,
+      2,
+      3,
+      4,
+      0
+    ],
+    "durations_ms": [
+      300,
+      240,
+      240,
+      260,
+      260,
+      320
+    ],
+    "loop": true,
+    "playback_mode": "loop",
+    "next_action": "idle",
+    "anchor": [
+      0.5,
+      0.94
+    ],
+    "atlas": "对齐六帧图.png",
+    "atlas_columns": 3,
+    "atlas_rows": 2,
+    "formats": {
+      "gif": "DeepSeek-Lite-坐地头晕.gif",
+      "webp": "DeepSeek-Lite-坐地头晕.webp",
+      "apng": "DeepSeek-Lite-坐地头晕.apng"
+    },
+    "source_frames": [
+      {
+        "frame": 0,
+        "source_rect": [
+          0,
+          0,
+          512,
+          512
+        ],
+        "source_alpha_bbox": [
+          54,
+          36,
+          487,
+          499
+        ],
+        "placement": [
+          61,
+          44
+        ],
+        "scale": 0.9445702306079664
+      },
+      {
+        "frame": 1,
+        "source_rect": [
+          512,
+          0,
+          1024,
+          512
+        ],
+        "source_alpha_bbox": [
+          33,
+          22,
+          476,
+          499
+        ],
+        "placement": [
+          60,
+          30
+        ],
+        "scale": 0.9445702306079664
+      },
+      {
+        "frame": 2,
+        "source_rect": [
+          1024,
+          0,
+          1536,
+          512
+        ],
+        "source_alpha_bbox": [
+          68,
+          33,
+          488,
+          499
+        ],
+        "placement": [
+          64,
+          41
+        ],
+        "scale": 0.9445702306079664
+      },
+      {
+        "frame": 3,
+        "source_rect": [
+          0,
+          512,
+          512,
+          1024
+        ],
+        "source_alpha_bbox": [
+          56,
+          15,
+          508,
+          489
+        ],
+        "placement": [
+          51,
+          33
+        ],
+        "scale": 0.9445702306079664
+      },
+      {
+        "frame": 4,
+        "source_rect": [
+          512,
+          512,
+          1024,
+          1024
+        ],
+        "source_alpha_bbox": [
+          66,
+          35,
+          500,
+          489
+        ],
+        "placement": [
+          77,
+          52
+        ],
+        "scale": 0.9445702306079664
+      },
+      {
+        "frame": 5,
+        "source_rect": [
+          1024,
+          512,
+          1536,
+          1024
+        ],
+        "source_alpha_bbox": [
+          53,
+          33,
+          487,
+          490
+        ],
+        "placement": [
+          67,
+          49
+        ],
+        "scale": 0.9445702306079664
+      }
+    ],
+    "frame_translation_px": [
+      0,
+      0,
+      0,
+      0,
+      0,
+      0
+    ],
+    "timeline_source_indices": [
+      0,
+      1,
+      2,
+      3,
+      4,
+      5
+    ],
+    "terminal_state": "idle"
+  },
+  {
+    "name": "黑鸟无语",
+    "key": "10-speechless",
+    "frame_size": [
+      512,
+      512
+    ],
+    "frame_count": 6,
+    "playback_frame_order": [
+      0,
+      1,
+      2,
+      3,
+      4,
+      0
+    ],
+    "durations_ms": [
+      300,
+      220,
+      220,
+      240,
+      260,
+      300
+    ],
+    "loop": true,
+    "playback_mode": "loop",
+    "next_action": "idle",
+    "anchor": [
+      0.5,
+      0.94
+    ],
+    "atlas": "对齐六帧图.png",
+    "atlas_columns": 3,
+    "atlas_rows": 2,
+    "formats": {
+      "gif": "DeepSeek-Lite-黑鸟无语.gif",
+      "webp": "DeepSeek-Lite-黑鸟无语.webp",
+      "apng": "DeepSeek-Lite-黑鸟无语.apng"
+    },
+    "source_frames": [
+      {
+        "frame": 0,
+        "source_rect": [
+          0,
+          0,
+          512,
+          528
+        ],
+        "source_alpha_bbox": [
+          70,
+          44,
+          470,
+          528
+        ],
+        "placement": [
+          83,
+          51
+        ],
+        "scale": 0.8886785009861933
+      },
+      {
+        "frame": 1,
+        "source_rect": [
+          512,
+          0,
+          1024,
+          528
+        ],
+        "source_alpha_bbox": [
+          63,
+          47,
+          446,
+          528
+        ],
+        "placement": [
+          95,
+          54
+        ],
+        "scale": 0.8886785009861933
+      },
+      {
+        "frame": 2,
+        "source_rect": [
+          1024,
+          0,
+          1536,
+          528
+        ],
+        "source_alpha_bbox": [
+          86,
+          21,
+          455,
+          528
+        ],
+        "placement": [
+          101,
+          30
+        ],
+        "scale": 0.8886785009861933
+      },
+      {
+        "frame": 3,
+        "source_rect": [
+          0,
+          528,
+          512,
+          1024
+        ],
+        "source_alpha_bbox": [
+          96,
+          11,
+          474,
+          486
+        ],
+        "placement": [
+          86,
+          59
+        ],
+        "scale": 0.8886785009861933
+      },
+      {
+        "frame": 4,
+        "source_rect": [
+          512,
+          528,
+          1024,
+          1024
+        ],
+        "source_alpha_bbox": [
+          79,
+          34,
+          484,
+          486
+        ],
+        "placement": [
+          93,
+          79
+        ],
+        "scale": 0.8886785009861933
+      },
+      {
+        "frame": 5,
+        "source_rect": [
+          1024,
+          528,
+          1536,
+          1024
+        ],
+        "source_alpha_bbox": [
+          39,
+          23,
+          457,
+          486
+        ],
+        "placement": [
+          68,
+          70
+        ],
+        "scale": 0.8886785009861933
+      }
+    ],
+    "frame_translation_px": [
+      0,
+      0,
+      0,
+      0,
+      0,
+      0
+    ],
+    "timeline_source_indices": [
+      0,
+      1,
+      2,
+      3,
+      4,
+      5
+    ],
+    "terminal_state": "idle"
+  },
+  {
+    "name": "点头接单",
+    "key": "11-accept",
+    "frame_size": [
+      512,
+      512
+    ],
+    "frame_count": 6,
+    "playback_frame_order": [
+      0,
+      1,
+      2,
+      3,
+      4,
+      5
+    ],
+    "durations_ms": [
+      240,
+      180,
+      220,
+      240,
+      260,
+      400
+    ],
+    "loop": false,
+    "playback_mode": "once",
+    "next_action": "idle",
+    "anchor": [
+      0.5,
+      0.94
+    ],
+    "atlas": "对齐六帧图.png",
+    "atlas_columns": 3,
+    "atlas_rows": 2,
+    "formats": {
+      "gif": "DeepSeek-Lite-点头接单.gif",
+      "webp": "DeepSeek-Lite-点头接单.webp",
+      "apng": "DeepSeek-Lite-点头接单.apng"
+    },
+    "source_frames": [
+      {
+        "frame": 0,
+        "source_rect": [
+          0,
+          0,
+          512,
+          534
+        ],
+        "source_alpha_bbox": [
+          36,
+          7,
+          483,
+          534
+        ],
+        "placement": [
+          74,
+          30
+        ],
+        "scale": 0.8549525616698292
+      },
+      {
+        "frame": 1,
+        "source_rect": [
+          512,
+          0,
+          1024,
+          534
+        ],
+        "source_alpha_bbox": [
+          49,
+          41,
+          493,
+          531
+        ],
+        "placement": [
+          100,
+          62
+        ],
+        "scale": 0.8549525616698292
+      },
+      {
+        "frame": 2,
+        "source_rect": [
+          1024,
+          0,
+          1536,
+          534
+        ],
+        "source_alpha_bbox": [
+          10,
+          7,
+          462,
+          534
+        ],
+        "placement": [
+          70,
+          30
+        ],
+        "scale": 0.8549525616698292
+      },
+      {
+        "frame": 3,
+        "source_rect": [
+          0,
+          534,
+          512,
+          1024
+        ],
+        "source_alpha_bbox": [
+          48,
+          5,
+          485,
+          490
+        ],
+        "placement": [
+          83,
+          66
+        ],
+        "scale": 0.8549525616698292
+      },
+      {
+        "frame": 4,
+        "source_rect": [
+          512,
+          534,
+          1024,
+          1024
+        ],
+        "source_alpha_bbox": [
+          28,
+          0,
+          456,
+          490
+        ],
+        "placement": [
+          84,
+          62
+        ],
+        "scale": 0.8549525616698292
+      },
+      {
+        "frame": 5,
+        "source_rect": [
+          1024,
+          534,
+          1536,
+          1024
+        ],
+        "source_alpha_bbox": [
+          28,
+          2,
+          455,
+          490
+        ],
+        "placement": [
+          84,
+          64
+        ],
+        "scale": 0.8549525616698292
+      }
+    ],
+    "frame_translation_px": [
+      0,
+      0,
+      0,
+      0,
+      0,
+      0
+    ],
+    "timeline_source_indices": [
+      0,
+      1,
+      2,
+      3,
+      4,
+      5
+    ],
+    "terminal_state": "idle"
+  },
+  {
+    "name": "仔细思考",
+    "key": "12-think",
+    "frame_size": [
+      512,
+      512
+    ],
+    "frame_count": 6,
+    "playback_frame_order": [
+      0,
+      1,
+      2,
+      3,
+      4,
+      0
+    ],
+    "durations_ms": [
+      300,
+      240,
+      260,
+      280,
+      220,
+      320
+    ],
+    "loop": true,
+    "playback_mode": "loop",
+    "next_action": "idle",
+    "anchor": [
+      0.5,
+      0.94
+    ],
+    "atlas": "对齐六帧图.png",
+    "atlas_columns": 3,
+    "atlas_rows": 2,
+    "formats": {
+      "gif": "DeepSeek-Lite-仔细思考.gif",
+      "webp": "DeepSeek-Lite-仔细思考.webp",
+      "apng": "DeepSeek-Lite-仔细思考.apng"
+    },
+    "source_frames": [
+      {
+        "frame": 0,
+        "source_rect": [
+          0,
+          0,
+          512,
+          534
+        ],
+        "source_alpha_bbox": [
+          42,
+          12,
+          472,
+          534
+        ],
+        "placement": [
+          76,
+          30
+        ],
+        "scale": 0.8631417624521073
+      },
+      {
+        "frame": 1,
+        "source_rect": [
+          512,
+          0,
+          1024,
+          534
+        ],
+        "source_alpha_bbox": [
+          39,
+          18,
+          473,
+          534
+        ],
+        "placement": [
+          87,
+          36
+        ],
+        "scale": 0.8631417624521073
+      },
+      {
+        "frame": 2,
+        "source_rect": [
+          1024,
+          0,
+          1536,
+          534
+        ],
+        "source_alpha_bbox": [
+          37,
+          19,
+          463,
+          534
+        ],
+        "placement": [
+          70,
+          36
+        ],
+        "scale": 0.8631417624521073
+      },
+      {
+        "frame": 3,
+        "source_rect": [
+          0,
+          534,
+          512,
+          1024
+        ],
+        "source_alpha_bbox": [
+          48,
+          5,
+          476,
+          490
+        ],
+        "placement": [
+          82,
+          62
+        ],
+        "scale": 0.8631417624521073
+      },
+      {
+        "frame": 4,
+        "source_rect": [
+          512,
+          534,
+          1024,
+          1024
+        ],
+        "source_alpha_bbox": [
+          32,
+          4,
+          477,
+          490
+        ],
+        "placement": [
+          73,
+          62
+        ],
+        "scale": 0.8631417624521073
+      },
+      {
+        "frame": 5,
+        "source_rect": [
+          1024,
+          534,
+          1536,
+          1024
+        ],
+        "source_alpha_bbox": [
+          54,
+          4,
+          484,
+          490
+        ],
+        "placement": [
+          74,
+          62
+        ],
+        "scale": 0.8631417624521073
+      }
+    ],
+    "frame_translation_px": [
+      0,
+      0,
+      0,
+      0,
+      0,
+      0
+    ],
+    "timeline_source_indices": [
+      0,
+      1,
+      2,
+      3,
+      4,
+      5
+    ],
+    "terminal_state": "idle"
+  },
+  {
+    "name": "翻书查资料",
+    "key": "13-research",
+    "frame_size": [
+      512,
+      512
+    ],
+    "frame_count": 6,
+    "playback_frame_order": [
+      0,
+      1,
+      2,
+      3,
+      4,
+      0
+    ],
+    "durations_ms": [
+      240,
+      220,
+      240,
+      260,
+      220,
+      320
+    ],
+    "loop": true,
+    "playback_mode": "loop",
+    "next_action": "idle",
+    "anchor": [
+      0.5,
+      0.94
+    ],
+    "atlas": "对齐六帧图.png",
+    "atlas_columns": 3,
+    "atlas_rows": 2,
+    "formats": {
+      "gif": "DeepSeek-Lite-翻书查资料.gif",
+      "webp": "DeepSeek-Lite-翻书查资料.webp",
+      "apng": "DeepSeek-Lite-翻书查资料.apng"
+    },
+    "source_frames": [
+      {
+        "frame": 0,
+        "source_rect": [
+          0,
+          0,
+          512,
+          520
+        ],
+        "source_alpha_bbox": [
+          44,
+          5,
+          477,
+          520
+        ],
+        "placement": [
+          78,
+          30
+        ],
+        "scale": 0.874873786407767
+      },
+      {
+        "frame": 1,
+        "source_rect": [
+          512,
+          0,
+          1024,
+          520
+        ],
+        "source_alpha_bbox": [
+          40,
+          5,
+          482,
+          520
+        ],
+        "placement": [
+          78,
+          30
+        ],
+        "scale": 0.874873786407767
+      },
+      {
+        "frame": 2,
+        "source_rect": [
+          1024,
+          0,
+          1536,
+          520
+        ],
+        "source_alpha_bbox": [
+          54,
+          5,
+          489,
+          520
+        ],
+        "placement": [
+          79,
+          30
+        ],
+        "scale": 0.874873786407767
+      },
+      {
+        "frame": 3,
+        "source_rect": [
+          0,
+          520,
+          512,
+          1024
+        ],
+        "source_alpha_bbox": [
+          43,
+          3,
+          483,
+          504
+        ],
+        "placement": [
+          78,
+          43
+        ],
+        "scale": 0.874873786407767
+      },
+      {
+        "frame": 4,
+        "source_rect": [
+          512,
+          520,
+          1024,
+          1024
+        ],
+        "source_alpha_bbox": [
+          31,
+          3,
+          483,
+          504
+        ],
+        "placement": [
+          75,
+          43
+        ],
+        "scale": 0.874873786407767
+      },
+      {
+        "frame": 5,
+        "source_rect": [
+          1024,
+          520,
+          1536,
+          1024
+        ],
+        "source_alpha_bbox": [
+          45,
+          3,
+          486,
+          504
+        ],
+        "placement": [
+          78,
+          43
+        ],
+        "scale": 0.874873786407767
+      }
+    ],
+    "frame_translation_px": [
+      0,
+      0,
+      0,
+      0,
+      0,
+      0
+    ],
+    "timeline_source_indices": [
+      0,
+      1,
+      2,
+      3,
+      4,
+      5
+    ],
+    "terminal_state": "idle"
+  },
+  {
+    "name": "举手提问",
+    "key": "14-question",
+    "frame_size": [
+      512,
+      512
+    ],
+    "frame_count": 6,
+    "playback_frame_order": [
+      0,
+      1,
+      2,
+      3,
+      4,
+      0
+    ],
+    "durations_ms": [
+      280,
+      220,
+      260,
+      300,
+      220,
+      320
+    ],
+    "loop": true,
+    "playback_mode": "loop",
+    "next_action": "idle",
+    "anchor": [
+      0.5,
+      0.94
+    ],
+    "atlas": "对齐六帧图.png",
+    "atlas_columns": 3,
+    "atlas_rows": 2,
+    "formats": {
+      "gif": "DeepSeek-Lite-举手提问.gif",
+      "webp": "DeepSeek-Lite-举手提问.webp",
+      "apng": "DeepSeek-Lite-举手提问.apng"
+    },
+    "source_frames": [
+      {
+        "frame": 0,
+        "source_rect": [
+          0,
+          0,
+          512,
+          514
+        ],
+        "source_alpha_bbox": [
+          47,
+          12,
+          471,
+          514
+        ],
+        "placement": [
+          73,
+          31
+        ],
+        "scale": 0.8957455268389662
+      },
+      {
+        "frame": 1,
+        "source_rect": [
+          512,
+          0,
+          1024,
+          514
+        ],
+        "source_alpha_bbox": [
+          42,
+          13,
+          458,
+          514
+        ],
+        "placement": [
+          74,
+          32
+        ],
+        "scale": 0.8957455268389662
+      },
+      {
+        "frame": 2,
+        "source_rect": [
+          1024,
+          0,
+          1536,
+          514
+        ],
+        "source_alpha_bbox": [
+          44,
+          15,
+          443,
+          514
+        ],
+        "placement": [
+          81,
+          34
+        ],
+        "scale": 0.8957455268389662
+      },
+      {
+        "frame": 3,
+        "source_rect": [
+          0,
+          514,
+          512,
+          1024
+        ],
+        "source_alpha_bbox": [
+          44,
+          6,
+          479,
+          509
+        ],
+        "placement": [
+          65,
+          30
+        ],
+        "scale": 0.8957455268389662
+      },
+      {
+        "frame": 4,
+        "source_rect": [
+          512,
+          514,
+          1024,
+          1024
+        ],
+        "source_alpha_bbox": [
+          41,
+          5,
+          461,
+          508
+        ],
+        "placement": [
+          72,
+          30
+        ],
+        "scale": 0.8957455268389662
+      },
+      {
+        "frame": 5,
+        "source_rect": [
+          1024,
+          514,
+          1536,
+          1024
+        ],
+        "source_alpha_bbox": [
+          38,
+          7,
+          463,
+          509
+        ],
+        "placement": [
+          73,
+          31
+        ],
+        "scale": 0.8957455268389662
+      }
+    ],
+    "frame_translation_px": [
+      0,
+      0,
+      0,
+      0,
+      0,
+      0
+    ],
+    "timeline_source_indices": [
+      0,
+      1,
+      2,
+      3,
+      4,
+      5
+    ],
+    "terminal_state": "idle"
+  },
+  {
+    "name": "完成任务展示成果",
+    "key": "15-result",
+    "frame_size": [
+      512,
+      512
+    ],
+    "frame_count": 6,
+    "playback_frame_order": [
+      0,
+      1,
+      2,
+      3,
+      4,
+      5
+    ],
+    "durations_ms": [
+      220,
+      200,
+      220,
+      260,
+      300,
+      450
+    ],
+    "loop": false,
+    "playback_mode": "once",
+    "next_action": "idle",
+    "anchor": [
+      0.5,
+      0.94
+    ],
+    "atlas": "对齐六帧图.png",
+    "atlas_columns": 3,
+    "atlas_rows": 2,
+    "formats": {
+      "gif": "DeepSeek-Lite-完成任务展示成果.gif",
+      "webp": "DeepSeek-Lite-完成任务展示成果.webp",
+      "apng": "DeepSeek-Lite-完成任务展示成果.apng"
+    },
+    "source_frames": [
+      {
+        "frame": 0,
+        "source_rect": [
+          0,
+          0,
+          512,
+          524
+        ],
+        "source_alpha_bbox": [
+          48,
+          12,
+          469,
+          524
+        ],
+        "placement": [
+          73,
+          31
+        ],
+        "scale": 0.8782846003898636
+      },
+      {
+        "frame": 1,
+        "source_rect": [
+          512,
+          0,
+          1024,
+          524
+        ],
+        "source_alpha_bbox": [
+          48,
+          12,
+          488,
+          524
+        ],
+        "placement": [
+          77,
+          31
+        ],
+        "scale": 0.8782846003898636
+      },
+      {
+        "frame": 2,
+        "source_rect": [
+          1024,
+          0,
+          1536,
+          524
+        ],
+        "source_alpha_bbox": [
+          47,
+          11,
+          470,
+          524
+        ],
+        "placement": [
+          78,
+          30
+        ],
+        "scale": 0.8782846003898636
+      },
+      {
+        "frame": 3,
+        "source_rect": [
+          0,
+          524,
+          512,
+          1024
+        ],
+        "source_alpha_bbox": [
+          44,
+          2,
+          493,
+          489
+        ],
+        "placement": [
+          68,
+          53
+        ],
+        "scale": 0.8782846003898636
+      },
+      {
+        "frame": 4,
+        "source_rect": [
+          512,
+          524,
+          1024,
+          1024
+        ],
+        "source_alpha_bbox": [
+          41,
+          1,
+          491,
+          490
+        ],
+        "placement": [
+          81,
+          52
+        ],
+        "scale": 0.8782846003898636
+      },
+      {
+        "frame": 5,
+        "source_rect": [
+          1024,
+          524,
+          1536,
+          1024
+        ],
+        "source_alpha_bbox": [
+          54,
+          1,
+          468,
+          489
+        ],
+        "placement": [
+          81,
+          52
+        ],
+        "scale": 0.8782846003898636
+      }
+    ],
+    "frame_translation_px": [
+      0,
+      0,
+      0,
+      0,
+      0,
+      0
+    ],
+    "timeline_source_indices": [
+      0,
+      1,
+      2,
+      3,
+      4,
+      5
+    ],
+    "terminal_state": "idle"
+  },
+  {
+    "name": "认真修改",
+    "key": "16-revise",
+    "frame_size": [
+      512,
+      512
+    ],
+    "frame_count": 6,
+    "playback_frame_order": [
+      0,
+      1,
+      2,
+      3,
+      4,
+      5
+    ],
+    "durations_ms": [
+      260,
+      220,
+      220,
+      260,
+      260,
+      420
+    ],
+    "loop": false,
+    "playback_mode": "once",
+    "next_action": "idle",
+    "anchor": [
+      0.5,
+      0.94
+    ],
+    "atlas": "对齐六帧图.png",
+    "atlas_columns": 3,
+    "atlas_rows": 2,
+    "formats": {
+      "gif": "DeepSeek-Lite-认真修改.gif",
+      "webp": "DeepSeek-Lite-认真修改.webp",
+      "apng": "DeepSeek-Lite-认真修改.apng"
+    },
+    "source_frames": [
+      {
+        "frame": 0,
+        "source_rect": [
+          0,
+          0,
+          512,
+          521
+        ],
+        "source_alpha_bbox": [
+          44,
+          9,
+          480,
+          521
+        ],
+        "placement": [
+          68,
+          30
+        ],
+        "scale": 0.88
+      },
+      {
+        "frame": 1,
+        "source_rect": [
+          512,
+          0,
+          1024,
+          521
+        ],
+        "source_alpha_bbox": [
+          30,
+          10,
+          485,
+          521
+        ],
+        "placement": [
+          75,
+          31
+        ],
+        "scale": 0.88
+      },
+      {
+        "frame": 2,
+        "source_rect": [
+          1024,
+          0,
+          1536,
+          521
+        ],
+        "source_alpha_bbox": [
+          39,
+          9,
+          490,
+          521
+        ],
+        "placement": [
+          71,
+          30
+        ],
+        "scale": 0.88
+      },
+      {
+        "frame": 3,
+        "source_rect": [
+          0,
+          521,
+          512,
+          1024
+        ],
+        "source_alpha_bbox": [
+          48,
+          3,
+          494,
+          503
+        ],
+        "placement": [
+          68,
+          41
+        ],
+        "scale": 0.88
+      },
+      {
+        "frame": 4,
+        "source_rect": [
+          512,
+          521,
+          1024,
+          1024
+        ],
+        "source_alpha_bbox": [
+          39,
+          0,
+          485,
+          503
+        ],
+        "placement": [
+          80,
+          38
+        ],
+        "scale": 0.88
+      },
+      {
+        "frame": 5,
+        "source_rect": [
+          1024,
+          521,
+          1536,
+          1024
+        ],
+        "source_alpha_bbox": [
+          40,
+          0,
+          483,
+          503
+        ],
+        "placement": [
+          75,
+          38
+        ],
+        "scale": 0.88
+      }
+    ],
+    "frame_translation_px": [
+      0,
+      0,
+      0,
+      0,
+      0,
+      0
+    ],
+    "timeline_source_indices": [
+      0,
+      1,
+      2,
+      3,
+      4,
+      5
+    ],
+    "terminal_state": "idle"
+  },
+  {
+    "name": "用户要求停止",
+    "key": "17-stop",
+    "frame_size": [
+      512,
+      512
+    ],
+    "frame_count": 6,
+    "playback_frame_order": [
+      0,
+      1,
+      2,
+      3,
+      4,
+      5
+    ],
+    "durations_ms": [
+      180,
+      160,
+      180,
+      220,
+      260,
+      500
+    ],
+    "loop": false,
+    "playback_mode": "once",
+    "next_action": "idle",
+    "anchor": [
+      0.5,
+      0.94
+    ],
+    "atlas": "对齐六帧图.png",
+    "atlas_columns": 3,
+    "atlas_rows": 2,
+    "formats": {
+      "gif": "DeepSeek-Lite-用户要求停止.gif",
+      "webp": "DeepSeek-Lite-用户要求停止.webp",
+      "apng": "DeepSeek-Lite-用户要求停止.apng"
+    },
+    "source_frames": [
+      {
+        "frame": 0,
+        "source_rect": [
+          0,
+          0,
+          512,
+          533
+        ],
+        "source_alpha_bbox": [
+          48,
+          7,
+          474,
+          533
+        ],
+        "placement": [
+          86,
+          30
+        ],
+        "scale": 0.8565779467680609
+      },
+      {
+        "frame": 1,
+        "source_rect": [
+          512,
+          0,
+          1024,
+          533
+        ],
+        "source_alpha_bbox": [
+          45,
+          7,
+          472,
+          533
+        ],
+        "placement": [
+          83,
+          30
+        ],
+        "scale": 0.8565779467680609
+      },
+      {
+        "frame": 2,
+        "source_rect": [
+          1024,
+          0,
+          1536,
+          533
+        ],
+        "source_alpha_bbox": [
+          47,
+          7,
+          471,
+          533
+        ],
+        "placement": [
+          87,
+          30
+        ],
+        "scale": 0.8565779467680609
+      },
+      {
+        "frame": 3,
+        "source_rect": [
+          0,
+          533,
+          512,
+          1024
+        ],
+        "source_alpha_bbox": [
+          50,
+          0,
+          474,
+          491
+        ],
+        "placement": [
+          91,
+          60
+        ],
+        "scale": 0.8565779467680609
+      },
+      {
+        "frame": 4,
+        "source_rect": [
+          512,
+          533,
+          1024,
+          1024
+        ],
+        "source_alpha_bbox": [
+          57,
+          2,
+          466,
+          491
+        ],
+        "placement": [
+          89,
+          62
+        ],
+        "scale": 0.8565779467680609
+      },
+      {
+        "frame": 5,
+        "source_rect": [
+          1024,
+          533,
+          1536,
+          1024
+        ],
+        "source_alpha_bbox": [
+          52,
+          0,
+          464,
+          491
+        ],
+        "placement": [
+          92,
+          60
+        ],
+        "scale": 0.8565779467680609
+      }
+    ],
+    "frame_translation_px": [
+      0,
+      0,
+      0,
+      0,
+      0,
+      0
+    ],
+    "timeline_source_indices": [
+      0,
+      1,
+      2,
+      3,
+      4,
+      5
+    ],
+    "terminal_state": "idle"
+  },
+  {
+    "name": "趴着看书打瞌睡",
+    "key": "18-doze",
+    "frame_size": [
+      512,
+      512
+    ],
+    "frame_count": 6,
+    "playback_frame_order": [
+      0,
+      1,
+      2,
+      3,
+      4,
+      0
+    ],
+    "durations_ms": [
+      300,
+      240,
+      280,
+      300,
+      200,
+      320
+    ],
+    "loop": true,
+    "playback_mode": "loop",
+    "next_action": "idle",
+    "anchor": [
+      0.5,
+      0.94
+    ],
+    "atlas": "对齐六帧图.png",
+    "atlas_columns": 3,
+    "atlas_rows": 2,
+    "formats": {
+      "gif": "DeepSeek-Lite-趴着看书打瞌睡.gif",
+      "webp": "DeepSeek-Lite-趴着看书打瞌睡.webp",
+      "apng": "DeepSeek-Lite-趴着看书打瞌睡.apng"
+    },
+    "source_frames": [
+      {
+        "frame": 0,
+        "source_rect": [
+          0,
+          0,
+          512,
+          512
+        ],
+        "source_alpha_bbox": [
+          20,
+          79,
+          497,
+          475
+        ],
+        "placement": [
+          59,
+          109
+        ],
+        "scale": 0.9406263048016702
+      },
+      {
+        "frame": 1,
+        "source_rect": [
+          512,
+          0,
+          1024,
+          512
+        ],
+        "source_alpha_bbox": [
+          23,
+          104,
+          479,
+          475
+        ],
+        "placement": [
+          78,
+          132
+        ],
+        "scale": 0.9406263048016702
+      },
+      {
+        "frame": 2,
+        "source_rect": [
+          1024,
+          0,
+          1536,
+          512
+        ],
+        "source_alpha_bbox": [
+          27,
+          117,
+          487,
+          476
+        ],
+        "placement": [
+          68,
+          143
+        ],
+        "scale": 0.9406263048016702
+      },
+      {
+        "frame": 3,
+        "source_rect": [
+          0,
+          512,
+          512,
+          1024
+        ],
+        "source_alpha_bbox": [
+          27,
+          108,
+          506,
+          458
+        ],
+        "placement": [
+          57,
+          152
+        ],
+        "scale": 0.9406263048016702
+      },
+      {
+        "frame": 4,
+        "source_rect": [
+          512,
+          512,
+          1024,
+          1024
+        ],
+        "source_alpha_bbox": [
+          23,
+          45,
+          498,
+          446
+        ],
+        "placement": [
+          61,
+          104
+        ],
+        "scale": 0.9406263048016702
+      },
+      {
+        "frame": 5,
+        "source_rect": [
+          1024,
+          512,
+          1536,
+          1024
+        ],
+        "source_alpha_bbox": [
+          11,
+          76,
+          483,
+          459
+        ],
+        "placement": [
+          64,
+          121
+        ],
+        "scale": 0.9406263048016702
+      }
+    ],
+    "frame_translation_px": [
+      0,
+      0,
+      0,
+      0,
+      0,
+      0
+    ],
+    "timeline_source_indices": [
+      0,
+      1,
+      2,
+      3,
+      4,
+      5
+    ],
+    "terminal_state": "idle"
+  },
+  {
+    "name": "偷偷探头",
+    "key": "19-peek",
+    "frame_size": [
+      512,
+      512
+    ],
+    "frame_count": 6,
+    "playback_frame_order": [
+      0,
+      1,
+      2,
+      3,
+      4,
+      5
+    ],
+    "durations_ms": [
+      220,
+      180,
+      220,
+      260,
+      220,
+      400
+    ],
+    "loop": false,
+    "playback_mode": "once",
+    "next_action": "idle",
+    "anchor": [
+      0.5,
+      0.94
+    ],
+    "atlas": "对齐六帧图.png",
+    "atlas_columns": 3,
+    "atlas_rows": 2,
+    "formats": {
+      "gif": "DeepSeek-Lite-偷偷探头.gif",
+      "webp": "DeepSeek-Lite-偷偷探头.webp",
+      "apng": "DeepSeek-Lite-偷偷探头.apng"
+    },
+    "source_frames": [
+      {
+        "frame": 0,
+        "source_rect": [
+          0,
+          0,
+          512,
+          512
+        ],
+        "source_alpha_bbox": [
+          75,
+          32,
+          376,
+          495
+        ],
+        "placement": [
+          80,
+          64
+        ],
+        "scale": 0.9047389558232932
+      },
+      {
+        "frame": 1,
+        "source_rect": [
+          512,
+          0,
+          1024,
+          512
+        ],
+        "source_alpha_bbox": [
+          75,
+          30,
+          438,
+          495
+        ],
+        "placement": [
+          80,
+          62
+        ],
+        "scale": 0.9047389558232932
+      },
+      {
+        "frame": 2,
+        "source_rect": [
+          1024,
+          0,
+          1536,
+          512
+        ],
+        "source_alpha_bbox": [
+          75,
+          15,
+          468,
+          505
+        ],
+        "placement": [
+          80,
+          49
+        ],
+        "scale": 0.9047389558232932
+      },
+      {
+        "frame": 3,
+        "source_rect": [
+          0,
+          512,
+          512,
+          1024
+        ],
+        "source_alpha_bbox": [
+          75,
+          9,
+          480,
+          507
+        ],
+        "placement": [
+          80,
+          43
+        ],
+        "scale": 0.9047389558232932
+      },
+      {
+        "frame": 4,
+        "source_rect": [
+          512,
+          512,
+          1024,
+          1024
+        ],
+        "source_alpha_bbox": [
+          75,
+          9,
+          488,
+          507
+        ],
+        "placement": [
+          80,
+          43
+        ],
+        "scale": 0.9047389558232932
+      },
+      {
+        "frame": 5,
+        "source_rect": [
+          1024,
+          512,
+          1536,
+          1024
+        ],
+        "source_alpha_bbox": [
+          75,
+          9,
+          479,
+          507
+        ],
+        "placement": [
+          80,
+          43
+        ],
+        "scale": 0.9047389558232932
+      }
+    ],
+    "frame_translation_px": [
+      0,
+      0,
+      0,
+      0,
+      0,
+      0
+    ],
+    "timeline_source_indices": [
+      0,
+      1,
+      2,
+      3,
+      4,
+      5
+    ],
+    "terminal_state": "idle"
+  },
+  {
+    "name": "骑着小单车出场",
+    "key": "20-bicycle",
+    "frame_size": [
+      640,
+      512
+    ],
+    "frame_count": 10,
+    "playback_frame_order": [
+      0,
+      1,
+      2,
+      3,
+      4,
+      5,
+      6,
+      7,
+      8,
+      9
+    ],
+    "durations_ms": [
+      100,
+      120,
+      120,
+      120,
+      120,
+      200,
+      260,
+      280,
+      320,
+      280
+    ],
+    "loop": false,
+    "playback_mode": "once",
+    "next_action": "idle",
+    "anchor": [
+      0.5,
+      0.94
+    ],
+    "atlas": "对齐10帧图.png",
+    "atlas_columns": 4,
+    "atlas_rows": 3,
+    "formats": {
+      "gif": "DeepSeek-Lite-骑着小单车出场-v4.gif",
+      "webp": "DeepSeek-Lite-骑着小单车出场-v4.webp",
+      "apng": "DeepSeek-Lite-骑着小单车出场-v4.apng"
+    },
+    "source_frames": [
+      {
+        "frame": 0,
+        "source_rect": [
+          0,
+          0,
+          512,
+          512
+        ],
+        "source_alpha_bbox": [
+          46,
+          49,
+          497,
+          508
+        ],
+        "placement": [
+          65,
+          38
+        ],
+        "scale": 0.965675057208238
+      },
+      {
+        "frame": 1,
+        "source_rect": [
+          512,
+          0,
+          1024,
+          512
+        ],
+        "source_alpha_bbox": [
+          43,
+          47,
+          469,
+          508
+        ],
+        "placement": [
+          93,
+          36
+        ],
+        "scale": 0.965675057208238
+      },
+      {
+        "frame": 2,
+        "source_rect": [
+          1024,
+          0,
+          1536,
+          512
+        ],
+        "source_alpha_bbox": [
+          20,
+          44,
+          453,
+          508
+        ],
+        "placement": [
+          89,
+          33
+        ],
+        "scale": 0.965675057208238
+      },
+      {
+        "frame": 3,
+        "source_rect": [
+          0,
+          512,
+          528,
+          1024
+        ],
+        "source_alpha_bbox": [
+          20,
+          29,
+          528,
+          453
+        ],
+        "placement": [
+          10,
+          72
+        ],
+        "scale": 0.965675057208238
+      },
+      {
+        "frame": 4,
+        "source_rect": [
+          528,
+          512,
+          1042,
+          1024
+        ],
+        "source_alpha_bbox": [
+          13,
+          24,
+          514,
+          451
+        ],
+        "placement": [
+          28,
+          69
+        ],
+        "scale": 0.965675057208238
+      },
+      {
+        "frame": 5,
+        "source_rect": [
+          1042,
+          512,
+          1536,
+          1024
+        ],
+        "source_alpha_bbox": [
+          93,
+          26,
+          464,
+          463
+        ],
+        "placement": [
+          146,
+          59
+        ],
+        "scale": 0.965675057208238
+      }
+    ],
+    "frame_translation_px": [
+      0,
+      540,
+      400,
+      260,
+      120,
+      0,
+      0,
+      0,
+      0,
+      0
+    ],
+    "timeline_source_indices": [
+      null,
+      0,
+      1,
+      0,
+      1,
+      0,
+      2,
+      3,
+      4,
+      5
+    ],
+    "terminal_state": "idle"
+  },
+  {
+    "name": "收拾东西推单车离场",
+    "key": "21-bicycle-exit",
+    "frame_size": [
+      640,
+      512
+    ],
+    "frame_count": 8,
+    "playback_frame_order": [
+      0,
+      1,
+      2,
+      3,
+      4,
+      5,
+      6,
+      7
+    ],
+    "durations_ms": [
+      280,
+      200,
+      360,
+      300,
+      180,
+      180,
+      220,
+      350
+    ],
+    "loop": false,
+    "playback_mode": "once",
+    "next_action": "hidden",
+    "anchor": [
+      0.5,
+      0.94
+    ],
+    "atlas": "对齐8帧图.png",
+    "atlas_columns": 4,
+    "atlas_rows": 2,
+    "formats": {
+      "gif": "DeepSeek-Lite-收拾东西推单车离场-v4.gif",
+      "webp": "DeepSeek-Lite-收拾东西推单车离场-v4.webp",
+      "apng": "DeepSeek-Lite-收拾东西推单车离场-v4.apng"
+    },
+    "source_frames": [
+      {
+        "frame": 0,
+        "source_rect": [
+          0,
+          0,
+          535,
+          521
+        ],
+        "source_alpha_bbox": [
+          46,
+          16,
+          535,
+          521
+        ],
+        "placement": [
+          51,
+          41
+        ],
+        "scale": 0.8719207920792079
+      },
+      {
+        "frame": 1,
+        "source_rect": [
+          535,
+          0,
+          1006,
+          521
+        ],
+        "source_alpha_bbox": [
+          15,
+          20,
+          460,
+          521
+        ],
+        "placement": [
+          96,
+          44
+        ],
+        "scale": 0.8719207920792079
+      },
+      {
+        "frame": 2,
+        "source_rect": [
+          1006,
+          0,
+          1536,
+          521
+        ],
+        "source_alpha_bbox": [
+          0,
+          16,
+          489,
+          521
+        ],
+        "placement": [
+          58,
+          41
+        ],
+        "scale": 0.8719207920792079
+      },
+      {
+        "frame": 3,
+        "source_rect": [
+          0,
+          521,
+          531,
+          1024
+        ],
+        "source_alpha_bbox": [
+          44,
+          0,
+          531,
+          476
+        ],
+        "placement": [
+          58,
+          66
+        ],
+        "scale": 0.8719207920792079
+      },
+      {
+        "frame": 4,
+        "source_rect": [
+          531,
+          521,
+          1021,
+          1024
+        ],
+        "source_alpha_bbox": [
+          7,
+          0,
+          471,
+          474
+        ],
+        "placement": [
+          91,
+          68
+        ],
+        "scale": 0.8719207920792079
+      },
+      {
+        "frame": 5,
+        "source_rect": [
+          1021,
+          521,
+          1536,
+          1024
+        ],
+        "source_alpha_bbox": [
+          0,
+          0,
+          486,
+          475
+        ],
+        "placement": [
+          73,
+          67
+        ],
+        "scale": 0.8719207920792079
+      }
+    ],
+    "frame_translation_px": [
+      0,
+      0,
+      0,
+      0,
+      -70,
+      -150,
+      -270,
+      0
+    ],
+    "timeline_source_indices": [
+      0,
+      1,
+      2,
+      3,
+      4,
+      5,
+      5,
+      null
+    ],
+    "terminal_state": "hidden"
+  }
+]

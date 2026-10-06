@@ -1,0 +1,179 @@
+{
+  "name": "叉腰傲娇",
+  "key": "01-proud",
+  "frame_size": [
+    512,
+    512
+  ],
+  "frame_count": 6,
+  "playback_frame_order": [
+    0,
+    1,
+    2,
+    3,
+    4,
+    0
+  ],
+  "durations_ms": [
+    240,
+    140,
+    160,
+    360,
+    160,
+    240
+  ],
+  "loop": true,
+  "playback_mode": "loop",
+  "next_action": "idle",
+  "anchor": [
+    0.5,
+    0.94
+  ],
+  "atlas": "对齐六帧图.png",
+  "atlas_columns": 3,
+  "atlas_rows": 2,
+  "formats": {
+    "gif": "DeepSeek-Lite-叉腰傲娇.gif",
+    "webp": "DeepSeek-Lite-叉腰傲娇.webp",
+    "apng": "DeepSeek-Lite-叉腰傲娇.apng"
+  },
+  "source_frames": [
+    {
+      "frame": 0,
+      "source_rect": [
+        0,
+        0,
+        512,
+        516
+      ],
+      "source_alpha_bbox": [
+        29,
+        14,
+        456,
+        516
+      ],
+      "placement": [
+        72,
+        31
+      ],
+      "scale": 0.8957455268389662
+    },
+    {
+      "frame": 1,
+      "source_rect": [
+        512,
+        0,
+        1024,
+        516
+      ],
+      "source_alpha_bbox": [
+        39,
+        13,
+        468,
+        516
+      ],
+      "placement": [
+        77,
+        30
+      ],
+      "scale": 0.8957455268389662
+    },
+    {
+      "frame": 2,
+      "source_rect": [
+        1024,
+        0,
+        1536,
+        516
+      ],
+      "source_alpha_bbox": [
+        29,
+        21,
+        490,
+        516
+      ],
+      "placement": [
+        78,
+        38
+      ],
+      "scale": 0.8957455268389662
+    },
+    {
+      "frame": 3,
+      "source_rect": [
+        0,
+        516,
+        512,
+        1024
+      ],
+      "source_alpha_bbox": [
+        42,
+        0,
+        496,
+        500
+      ],
+      "placement": [
+        75,
+        33
+      ],
+      "scale": 0.8957455268389662
+    },
+    {
+      "frame": 4,
+      "source_rect": [
+        512,
+        516,
+        1024,
+        1024
+      ],
+      "source_alpha_bbox": [
+        38,
+        4,
+        468,
+        500
+      ],
+      "placement": [
+        75,
+        37
+      ],
+      "scale": 0.8957455268389662
+    },
+    {
+      "frame": 5,
+      "source_rect": [
+        1024,
+        516,
+        1536,
+        1024
+      ],
+      "source_alpha_bbox": [
+        37,
+        5,
+        473,
+        500
+      ],
+      "placement": [
+        72,
+        38
+      ],
+      "scale": 0.8957455268389662
+    }
+  ],
+  "frame_translation_px": [
+    0,
+    0,
+    0,
+    0,
+    0,
+    0
+  ],
+  "timeline_source_indices": [
+    0,
+    1,
+    2,
+    3,
+    4,
+    5
+  ],
+  "terminal_state": "idle"
+}

@@ -1,0 +1,179 @@
+{
+  "name": "完成任务展示成果",
+  "key": "15-result",
+  "frame_size": [
+    512,
+    512
+  ],
+  "frame_count": 6,
+  "playback_frame_order": [
+    0,
+    1,
+    2,
+    3,
+    4,
+    5
+  ],
+  "durations_ms": [
+    220,
+    200,
+    220,
+    260,
+    300,
+    450
+  ],
+  "loop": false,
+  "playback_mode": "once",
+  "next_action": "idle",
+  "anchor": [
+    0.5,
+    0.94
+  ],
+  "atlas": "对齐六帧图.png",
+  "atlas_columns": 3,
+  "atlas_rows": 2,
+  "formats": {
+    "gif": "DeepSeek-Lite-完成任务展示成果.gif",
+    "webp": "DeepSeek-Lite-完成任务展示成果.webp",
+    "apng": "DeepSeek-Lite-完成任务展示成果.apng"
+  },
+  "source_frames": [
+    {
+      "frame": 0,
+      "source_rect": [
+        0,
+        0,
+        512,
+        524
+      ],
+      "source_alpha_bbox": [
+        48,
+        12,
+        469,
+        524
+      ],
+      "placement": [
+        73,
+        31
+      ],
+      "scale": 0.8782846003898636
+    },
+    {
+      "frame": 1,
+      "source_rect": [
+        512,
+        0,
+        1024,
+        524
+      ],
+      "source_alpha_bbox": [
+        48,
+        12,
+        488,
+        524
+      ],
+      "placement": [
+        77,
+        31
+      ],
+      "scale": 0.8782846003898636
+    },
+    {
+      "frame": 2,
+      "source_rect": [
+        1024,
+        0,
+        1536,
+        524
+      ],
+      "source_alpha_bbox": [
+        47,
+        11,
+        470,
+        524
+      ],
+      "placement": [
+        78,
+        30
+      ],
+      "scale": 0.8782846003898636
+    },
+    {
+      "frame": 3,
+      "source_rect": [
+        0,
+        524,
+        512,
+        1024
+      ],
+      "source_alpha_bbox": [
+        44,
+        2,
+        493,
+        489
+      ],
+      "placement": [
+        68,
+        53
+      ],
+      "scale": 0.8782846003898636
+    },
+    {
+      "frame": 4,
+      "source_rect": [
+        512,
+        524,
+        1024,
+        1024
+      ],
+      "source_alpha_bbox": [
+        41,
+        1,
+        491,
+        490
+      ],
+      "placement": [
+        81,
+        52
+      ],
+      "scale": 0.8782846003898636
+    },
+    {
+      "frame": 5,
+      "source_rect": [
+        1024,
+        524,
+        1536,
+        1024
+      ],
+      "source_alpha_bbox": [
+        54,
+        1,
+        468,
+        489
+      ],
+      "placement": [
+        81,
+        52
+      ],
+      "scale": 0.8782846003898636
+    }
+  ],
+  "frame_translation_px": [
+    0,
+    0,
+    0,
+    0,
+    0,
+    0
+  ],
+  "timeline_source_indices": [
+    0,
+    1,
+    2,
+    3,
+    4,
+    5
+  ],
+  "terminal_state": "idle"
+}

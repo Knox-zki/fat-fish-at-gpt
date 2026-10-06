@@ -1,0 +1,179 @@
+{
+  "name": "偷偷探头",
+  "key": "19-peek",
+  "frame_size": [
+    512,
+    512
+  ],
+  "frame_count": 6,
+  "playback_frame_order": [
+    0,
+    1,
+    2,
+    3,
+    4,
+    5
+  ],
+  "durations_ms": [
+    220,
+    180,
+    220,
+    260,
+    220,
+    400
+  ],
+  "loop": false,
+  "playback_mode": "once",
+  "next_action": "idle",
+  "anchor": [
+    0.5,
+    0.94
+  ],
+  "atlas": "对齐六帧图.png",
+  "atlas_columns": 3,
+  "atlas_rows": 2,
+  "formats": {
+    "gif": "DeepSeek-Lite-偷偷探头.gif",
+    "webp": "DeepSeek-Lite-偷偷探头.webp",
+    "apng": "DeepSeek-Lite-偷偷探头.apng"
+  },
+  "source_frames": [
+    {
+      "frame": 0,
+      "source_rect": [
+        0,
+        0,
+        512,
+        512
+      ],
+      "source_alpha_bbox": [
+        75,
+        32,
+        376,
+        495
+      ],
+      "placement": [
+        80,
+        64
+      ],
+      "scale": 0.9047389558232932
+    },
+    {
+      "frame": 1,
+      "source_rect": [
+        512,
+        0,
+        1024,
+        512
+      ],
+      "source_alpha_bbox": [
+        75,
+        30,
+        438,
+        495
+      ],
+      "placement": [
+        80,
+        62
+      ],
+      "scale": 0.9047389558232932
+    },
+    {
+      "frame": 2,
+      "source_rect": [
+        1024,
+        0,
+        1536,
+        512
+      ],
+      "source_alpha_bbox": [
+        75,
+        15,
+        468,
+        505
+      ],
+      "placement": [
+        80,
+        49
+      ],
+      "scale": 0.9047389558232932
+    },
+    {
+      "frame": 3,
+      "source_rect": [
+        0,
+        512,
+        512,
+        1024
+      ],
+      "source_alpha_bbox": [
+        75,
+        9,
+        480,
+        507
+      ],
+      "placement": [
+        80,
+        43
+      ],
+      "scale": 0.9047389558232932
+    },
+    {
+      "frame": 4,
+      "source_rect": [
+        512,
+        512,
+        1024,
+        1024
+      ],
+      "source_alpha_bbox": [
+        75,
+        9,
+        488,
+        507
+      ],
+      "placement": [
+        80,
+        43
+      ],
+      "scale": 0.9047389558232932
+    },
+    {
+      "frame": 5,
+      "source_rect": [
+        1024,
+        512,
+        1536,
+        1024
+      ],
+      "source_alpha_bbox": [
+        75,
+        9,
+        479,
+        507
+      ],
+      "placement": [
+        80,
+        43
+      ],
+      "scale": 0.9047389558232932
+    }
+  ],
+  "frame_translation_px": [
+    0,
+    0,
+    0,
+    0,
+    0,
+    0
+  ],
+  "timeline_source_indices": [
+    0,
+    1,
+    2,
+    3,
+    4,
+    5
+  ],
+  "terminal_state": "idle"
+}

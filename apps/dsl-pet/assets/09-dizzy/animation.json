@@ -1,0 +1,179 @@
+{
+  "name": "坐地头晕",
+  "key": "09-dizzy",
+  "frame_size": [
+    512,
+    512
+  ],
+  "frame_count": 6,
+  "playback_frame_order": [
+    0,
+    1,
+    2,
+    3,
+    4,
+    0
+  ],
+  "durations_ms": [
+    300,
+    240,
+    240,
+    260,
+    260,
+    320
+  ],
+  "loop": true,
+  "playback_mode": "loop",
+  "next_action": "idle",
+  "anchor": [
+    0.5,
+    0.94
+  ],
+  "atlas": "对齐六帧图.png",
+  "atlas_columns": 3,
+  "atlas_rows": 2,
+  "formats": {
+    "gif": "DeepSeek-Lite-坐地头晕.gif",
+    "webp": "DeepSeek-Lite-坐地头晕.webp",
+    "apng": "DeepSeek-Lite-坐地头晕.apng"
+  },
+  "source_frames": [
+    {
+      "frame": 0,
+      "source_rect": [
+        0,
+        0,
+        512,
+        512
+      ],
+      "source_alpha_bbox": [
+        54,
+        36,
+        487,
+        499
+      ],
+      "placement": [
+        61,
+        44
+      ],
+      "scale": 0.9445702306079664
+    },
+    {
+      "frame": 1,
+      "source_rect": [
+        512,
+        0,
+        1024,
+        512
+      ],
+      "source_alpha_bbox": [
+        33,
+        22,
+        476,
+        499
+      ],
+      "placement": [
+        60,
+        30
+      ],
+      "scale": 0.9445702306079664
+    },
+    {
+      "frame": 2,
+      "source_rect": [
+        1024,
+        0,
+        1536,
+        512
+      ],
+      "source_alpha_bbox": [
+        68,
+        33,
+        488,
+        499
+      ],
+      "placement": [
+        64,
+        41
+      ],
+      "scale": 0.9445702306079664
+    },
+    {
+      "frame": 3,
+      "source_rect": [
+        0,
+        512,
+        512,
+        1024
+      ],
+      "source_alpha_bbox": [
+        56,
+        15,
+        508,
+        489
+      ],
+      "placement": [
+        51,
+        33
+      ],
+      "scale": 0.9445702306079664
+    },
+    {
+      "frame": 4,
+      "source_rect": [
+        512,
+        512,
+        1024,
+        1024
+      ],
+      "source_alpha_bbox": [
+        66,
+        35,
+        500,
+        489
+      ],
+      "placement": [
+        77,
+        52
+      ],
+      "scale": 0.9445702306079664
+    },
+    {
+      "frame": 5,
+      "source_rect": [
+        1024,
+        512,
+        1536,
+        1024
+      ],
+      "source_alpha_bbox": [
+        53,
+        33,
+        487,
+        490
+      ],
+      "placement": [
+        67,
+        49
+      ],
+      "scale": 0.9445702306079664
+    }
+  ],
+  "frame_translation_px": [
+    0,
+    0,
+    0,
+    0,
+    0,
+    0
+  ],
+  "timeline_source_indices": [
+    0,
+    1,
+    2,
+    3,
+    4,
+    5
+  ],
+  "terminal_state": "idle"
+}

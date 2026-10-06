@@ -1,0 +1,179 @@
+{
+  "name": "认真修改",
+  "key": "16-revise",
+  "frame_size": [
+    512,
+    512
+  ],
+  "frame_count": 6,
+  "playback_frame_order": [
+    0,
+    1,
+    2,
+    3,
+    4,
+    5
+  ],
+  "durations_ms": [
+    260,
+    220,
+    220,
+    260,
+    260,
+    420
+  ],
+  "loop": false,
+  "playback_mode": "once",
+  "next_action": "idle",
+  "anchor": [
+    0.5,
+    0.94
+  ],
+  "atlas": "对齐六帧图.png",
+  "atlas_columns": 3,
+  "atlas_rows": 2,
+  "formats": {
+    "gif": "DeepSeek-Lite-认真修改.gif",
+    "webp": "DeepSeek-Lite-认真修改.webp",
+    "apng": "DeepSeek-Lite-认真修改.apng"
+  },
+  "source_frames": [
+    {
+      "frame": 0,
+      "source_rect": [
+        0,
+        0,
+        512,
+        521
+      ],
+      "source_alpha_bbox": [
+        44,
+        9,
+        480,
+        521
+      ],
+      "placement": [
+        68,
+        30
+      ],
+      "scale": 0.88
+    },
+    {
+      "frame": 1,
+      "source_rect": [
+        512,
+        0,
+        1024,
+        521
+      ],
+      "source_alpha_bbox": [
+        30,
+        10,
+        485,
+        521
+      ],
+      "placement": [
+        75,
+        31
+      ],
+      "scale": 0.88
+    },
+    {
+      "frame": 2,
+      "source_rect": [
+        1024,
+        0,
+        1536,
+        521
+      ],
+      "source_alpha_bbox": [
+        39,
+        9,
+        490,
+        521
+      ],
+      "placement": [
+        71,
+        30
+      ],
+      "scale": 0.88
+    },
+    {
+      "frame": 3,
+      "source_rect": [
+        0,
+        521,
+        512,
+        1024
+      ],
+      "source_alpha_bbox": [
+        48,
+        3,
+        494,
+        503
+      ],
+      "placement": [
+        68,
+        41
+      ],
+      "scale": 0.88
+    },
+    {
+      "frame": 4,
+      "source_rect": [
+        512,
+        521,
+        1024,
+        1024
+      ],
+      "source_alpha_bbox": [
+        39,
+        0,
+        485,
+        503
+      ],
+      "placement": [
+        80,
+        38
+      ],
+      "scale": 0.88
+    },
+    {
+      "frame": 5,
+      "source_rect": [
+        1024,
+        521,
+        1536,
+        1024
+      ],
+      "source_alpha_bbox": [
+        40,
+        0,
+        483,
+        503
+      ],
+      "placement": [
+        75,
+        38
+      ],
+      "scale": 0.88
+    }
+  ],
+  "frame_translation_px": [
+    0,
+    0,
+    0,
+    0,
+    0,
+    0
+  ],
+  "timeline_source_indices": [
+    0,
+    1,
+    2,
+    3,
+    4,
+    5
+  ],
+  "terminal_state": "idle"
+}

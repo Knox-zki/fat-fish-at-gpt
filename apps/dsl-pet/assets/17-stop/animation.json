@@ -1,0 +1,179 @@
+{
+  "name": "用户要求停止",
+  "key": "17-stop",
+  "frame_size": [
+    512,
+    512
+  ],
+  "frame_count": 6,
+  "playback_frame_order": [
+    0,
+    1,
+    2,
+    3,
+    4,
+    5
+  ],
+  "durations_ms": [
+    180,
+    160,
+    180,
+    220,
+    260,
+    500
+  ],
+  "loop": false,
+  "playback_mode": "once",
+  "next_action": "idle",
+  "anchor": [
+    0.5,
+    0.94
+  ],
+  "atlas": "对齐六帧图.png",
+  "atlas_columns": 3,
+  "atlas_rows": 2,
+  "formats": {
+    "gif": "DeepSeek-Lite-用户要求停止.gif",
+    "webp": "DeepSeek-Lite-用户要求停止.webp",
+    "apng": "DeepSeek-Lite-用户要求停止.apng"
+  },
+  "source_frames": [
+    {
+      "frame": 0,
+      "source_rect": [
+        0,
+        0,
+        512,
+        533
+      ],
+      "source_alpha_bbox": [
+        48,
+        7,
+        474,
+        533
+      ],
+      "placement": [
+        86,
+        30
+      ],
+      "scale": 0.8565779467680609
+    },
+    {
+      "frame": 1,
+      "source_rect": [
+        512,
+        0,
+        1024,
+        533
+      ],
+      "source_alpha_bbox": [
+        45,
+        7,
+        472,
+        533
+      ],
+      "placement": [
+        83,
+        30
+      ],
+      "scale": 0.8565779467680609
+    },
+    {
+      "frame": 2,
+      "source_rect": [
+        1024,
+        0,
+        1536,
+        533
+      ],
+      "source_alpha_bbox": [
+        47,
+        7,
+        471,
+        533
+      ],
+      "placement": [
+        87,
+        30
+      ],
+      "scale": 0.8565779467680609
+    },
+    {
+      "frame": 3,
+      "source_rect": [
+        0,
+        533,
+        512,
+        1024
+      ],
+      "source_alpha_bbox": [
+        50,
+        0,
+        474,
+        491
+      ],
+      "placement": [
+        91,
+        60
+      ],
+      "scale": 0.8565779467680609
+    },
+    {
+      "frame": 4,
+      "source_rect": [
+        512,
+        533,
+        1024,
+        1024
+      ],
+      "source_alpha_bbox": [
+        57,
+        2,
+        466,
+        491
+      ],
+      "placement": [
+        89,
+        62
+      ],
+      "scale": 0.8565779467680609
+    },
+    {
+      "frame": 5,
+      "source_rect": [
+        1024,
+        533,
+        1536,
+        1024
+      ],
+      "source_alpha_bbox": [
+        52,
+        0,
+        464,
+        491
+      ],
+      "placement": [
+        92,
+        60
+      ],
+      "scale": 0.8565779467680609
+    }
+  ],
+  "frame_translation_px": [
+    0,
+    0,
+    0,
+    0,
+    0,
+    0
+  ],
+  "timeline_source_indices": [
+    0,
+    1,
+    2,
+    3,
+    4,
+    5
+  ],
+  "terminal_state": "idle"
+}

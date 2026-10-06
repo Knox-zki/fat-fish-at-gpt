@@ -1,0 +1,179 @@
+{
+  "name": "吃一大碗白米饭",
+  "key": "05-rice",
+  "frame_size": [
+    512,
+    512
+  ],
+  "frame_count": 6,
+  "playback_frame_order": [
+    0,
+    1,
+    2,
+    3,
+    4,
+    0
+  ],
+  "durations_ms": [
+    300,
+    180,
+    220,
+    340,
+    200,
+    300
+  ],
+  "loop": true,
+  "playback_mode": "loop",
+  "next_action": "idle",
+  "anchor": [
+    0.5,
+    0.94
+  ],
+  "atlas": "对齐六帧图.png",
+  "atlas_columns": 3,
+  "atlas_rows": 2,
+  "formats": {
+    "gif": "DeepSeek-Lite-吃一大碗白米饭.gif",
+    "webp": "DeepSeek-Lite-吃一大碗白米饭.webp",
+    "apng": "DeepSeek-Lite-吃一大碗白米饭.apng"
+  },
+  "source_frames": [
+    {
+      "frame": 0,
+      "source_rect": [
+        0,
+        0,
+        512,
+        512
+      ],
+      "source_alpha_bbox": [
+        33,
+        11,
+        465,
+        511
+      ],
+      "placement": [
+        70,
+        30
+      ],
+      "scale": 0.90112
+    },
+    {
+      "frame": 1,
+      "source_rect": [
+        512,
+        0,
+        1024,
+        512
+      ],
+      "source_alpha_bbox": [
+        39,
+        11,
+        461,
+        511
+      ],
+      "placement": [
+        75,
+        30
+      ],
+      "scale": 0.90112
+    },
+    {
+      "frame": 2,
+      "source_rect": [
+        1024,
+        0,
+        1536,
+        512
+      ],
+      "source_alpha_bbox": [
+        46,
+        11,
+        459,
+        511
+      ],
+      "placement": [
+        81,
+        30
+      ],
+      "scale": 0.90112
+    },
+    {
+      "frame": 3,
+      "source_rect": [
+        0,
+        512,
+        512,
+        1024
+      ],
+      "source_alpha_bbox": [
+        36,
+        9,
+        469,
+        502
+      ],
+      "placement": [
+        67,
+        37
+      ],
+      "scale": 0.90112
+    },
+    {
+      "frame": 4,
+      "source_rect": [
+        512,
+        512,
+        1024,
+        1024
+      ],
+      "source_alpha_bbox": [
+        40,
+        9,
+        468,
+        502
+      ],
+      "placement": [
+        77,
+        37
+      ],
+      "scale": 0.90112
+    },
+    {
+      "frame": 5,
+      "source_rect": [
+        1024,
+        512,
+        1536,
+        1024
+      ],
+      "source_alpha_bbox": [
+        34,
+        9,
+        464,
+        502
+      ],
+      "placement": [
+        72,
+        37
+      ],
+      "scale": 0.90112
+    }
+  ],
+  "frame_translation_px": [
+    0,
+    0,
+    0,
+    0,
+    0,
+    0
+  ],
+  "timeline_source_indices": [
+    0,
+    1,
+    2,
+    3,
+    4,
+    5
+  ],
+  "terminal_state": "idle"
+}

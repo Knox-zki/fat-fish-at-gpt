@@ -1,0 +1,179 @@
+{
+  "name": "仔细思考",
+  "key": "12-think",
+  "frame_size": [
+    512,
+    512
+  ],
+  "frame_count": 6,
+  "playback_frame_order": [
+    0,
+    1,
+    2,
+    3,
+    4,
+    0
+  ],
+  "durations_ms": [
+    300,
+    240,
+    260,
+    280,
+    220,
+    320
+  ],
+  "loop": true,
+  "playback_mode": "loop",
+  "next_action": "idle",
+  "anchor": [
+    0.5,
+    0.94
+  ],
+  "atlas": "对齐六帧图.png",
+  "atlas_columns": 3,
+  "atlas_rows": 2,
+  "formats": {
+    "gif": "DeepSeek-Lite-仔细思考.gif",
+    "webp": "DeepSeek-Lite-仔细思考.webp",
+    "apng": "DeepSeek-Lite-仔细思考.apng"
+  },
+  "source_frames": [
+    {
+      "frame": 0,
+      "source_rect": [
+        0,
+        0,
+        512,
+        534
+      ],
+      "source_alpha_bbox": [
+        42,
+        12,
+        472,
+        534
+      ],
+      "placement": [
+        76,
+        30
+      ],
+      "scale": 0.8631417624521073
+    },
+    {
+      "frame": 1,
+      "source_rect": [
+        512,
+        0,
+        1024,
+        534
+      ],
+      "source_alpha_bbox": [
+        39,
+        18,
+        473,
+        534
+      ],
+      "placement": [
+        87,
+        36
+      ],
+      "scale": 0.8631417624521073
+    },
+    {
+      "frame": 2,
+      "source_rect": [
+        1024,
+        0,
+        1536,
+        534
+      ],
+      "source_alpha_bbox": [
+        37,
+        19,
+        463,
+        534
+      ],
+      "placement": [
+        70,
+        36
+      ],
+      "scale": 0.8631417624521073
+    },
+    {
+      "frame": 3,
+      "source_rect": [
+        0,
+        534,
+        512,
+        1024
+      ],
+      "source_alpha_bbox": [
+        48,
+        5,
+        476,
+        490
+      ],
+      "placement": [
+        82,
+        62
+      ],
+      "scale": 0.8631417624521073
+    },
+    {
+      "frame": 4,
+      "source_rect": [
+        512,
+        534,
+        1024,
+        1024
+      ],
+      "source_alpha_bbox": [
+        32,
+        4,
+        477,
+        490
+      ],
+      "placement": [
+        73,
+        62
+      ],
+      "scale": 0.8631417624521073
+    },
+    {
+      "frame": 5,
+      "source_rect": [
+        1024,
+        534,
+        1536,
+        1024
+      ],
+      "source_alpha_bbox": [
+        54,
+        4,
+        484,
+        490
+      ],
+      "placement": [
+        74,
+        62
+      ],
+      "scale": 0.8631417624521073
+    }
+  ],
+  "frame_translation_px": [
+    0,
+    0,
+    0,
+    0,
+    0,
+    0
+  ],
+  "timeline_source_indices": [
+    0,
+    1,
+    2,
+    3,
+    4,
+    5
+  ],
+  "terminal_state": "idle"
+}

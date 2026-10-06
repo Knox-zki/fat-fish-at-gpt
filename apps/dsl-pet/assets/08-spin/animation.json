@@ -1,0 +1,179 @@
+{
+  "name": "笨拙转圈",
+  "key": "08-spin",
+  "frame_size": [
+    512,
+    512
+  ],
+  "frame_count": 6,
+  "playback_frame_order": [
+    0,
+    1,
+    2,
+    3,
+    4,
+    5
+  ],
+  "durations_ms": [
+    220,
+    160,
+    160,
+    180,
+    280,
+    420
+  ],
+  "loop": false,
+  "playback_mode": "once",
+  "next_action": "idle",
+  "anchor": [
+    0.5,
+    0.94
+  ],
+  "atlas": "对齐六帧图.png",
+  "atlas_columns": 3,
+  "atlas_rows": 2,
+  "formats": {
+    "gif": "DeepSeek-Lite-笨拙转圈.gif",
+    "webp": "DeepSeek-Lite-笨拙转圈.webp",
+    "apng": "DeepSeek-Lite-笨拙转圈.apng"
+  },
+  "source_frames": [
+    {
+      "frame": 0,
+      "source_rect": [
+        0,
+        0,
+        512,
+        512
+      ],
+      "source_alpha_bbox": [
+        56,
+        13,
+        480,
+        512
+      ],
+      "placement": [
+        71,
+        30
+      ],
+      "scale": 0.9029258517034068
+    },
+    {
+      "frame": 1,
+      "source_rect": [
+        512,
+        0,
+        1024,
+        512
+      ],
+      "source_alpha_bbox": [
+        40,
+        14,
+        492,
+        512
+      ],
+      "placement": [
+        98,
+        31
+      ],
+      "scale": 0.9029258517034068
+    },
+    {
+      "frame": 2,
+      "source_rect": [
+        1024,
+        0,
+        1536,
+        512
+      ],
+      "source_alpha_bbox": [
+        23,
+        14,
+        466,
+        512
+      ],
+      "placement": [
+        62,
+        31
+      ],
+      "scale": 0.9029258517034068
+    },
+    {
+      "frame": 3,
+      "source_rect": [
+        0,
+        512,
+        512,
+        1024
+      ],
+      "source_alpha_bbox": [
+        28,
+        9,
+        431,
+        492
+      ],
+      "placement": [
+        36,
+        45
+      ],
+      "scale": 0.9029258517034068
+    },
+    {
+      "frame": 4,
+      "source_rect": [
+        512,
+        512,
+        1024,
+        1024
+      ],
+      "source_alpha_bbox": [
+        32,
+        7,
+        472,
+        492
+      ],
+      "placement": [
+        43,
+        43
+      ],
+      "scale": 0.9029258517034068
+    },
+    {
+      "frame": 5,
+      "source_rect": [
+        1024,
+        512,
+        1536,
+        1024
+      ],
+      "source_alpha_bbox": [
+        51,
+        10,
+        453,
+        491
+      ],
+      "placement": [
+        86,
+        47
+      ],
+      "scale": 0.9029258517034068
+    }
+  ],
+  "frame_translation_px": [
+    0,
+    0,
+    0,
+    0,
+    0,
+    0
+  ],
+  "timeline_source_indices": [
+    0,
+    1,
+    2,
+    3,
+    4,
+    5
+  ],
+  "terminal_state": "idle"
+}

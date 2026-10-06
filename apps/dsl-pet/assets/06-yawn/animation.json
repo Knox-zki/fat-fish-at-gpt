@@ -1,0 +1,179 @@
+{
+  "name": "打哈欠",
+  "key": "06-yawn",
+  "frame_size": [
+    512,
+    512
+  ],
+  "frame_count": 6,
+  "playback_frame_order": [
+    0,
+    1,
+    2,
+    3,
+    4,
+    0
+  ],
+  "durations_ms": [
+    300,
+    180,
+    240,
+    380,
+    180,
+    300
+  ],
+  "loop": true,
+  "playback_mode": "loop",
+  "next_action": "idle",
+  "anchor": [
+    0.5,
+    0.94
+  ],
+  "atlas": "对齐六帧图.png",
+  "atlas_columns": 3,
+  "atlas_rows": 2,
+  "formats": {
+    "gif": "DeepSeek-Lite-打哈欠.gif",
+    "webp": "DeepSeek-Lite-打哈欠.webp",
+    "apng": "DeepSeek-Lite-打哈欠.apng"
+  },
+  "source_frames": [
+    {
+      "frame": 0,
+      "source_rect": [
+        0,
+        0,
+        512,
+        521
+      ],
+      "source_alpha_bbox": [
+        48,
+        9,
+        488,
+        521
+      ],
+      "placement": [
+        76,
+        33
+      ],
+      "scale": 0.874873786407767
+    },
+    {
+      "frame": 1,
+      "source_rect": [
+        512,
+        0,
+        1024,
+        521
+      ],
+      "source_alpha_bbox": [
+        44,
+        8,
+        478,
+        521
+      ],
+      "placement": [
+        83,
+        32
+      ],
+      "scale": 0.874873786407767
+    },
+    {
+      "frame": 2,
+      "source_rect": [
+        1024,
+        0,
+        1536,
+        521
+      ],
+      "source_alpha_bbox": [
+        30,
+        6,
+        475,
+        521
+      ],
+      "placement": [
+        79,
+        30
+      ],
+      "scale": 0.874873786407767
+    },
+    {
+      "frame": 3,
+      "source_rect": [
+        0,
+        521,
+        512,
+        1024
+      ],
+      "source_alpha_bbox": [
+        40,
+        3,
+        487,
+        503
+      ],
+      "placement": [
+        71,
+        44
+      ],
+      "scale": 0.874873786407767
+    },
+    {
+      "frame": 4,
+      "source_rect": [
+        512,
+        521,
+        1024,
+        1024
+      ],
+      "source_alpha_bbox": [
+        45,
+        2,
+        476,
+        503
+      ],
+      "placement": [
+        82,
+        43
+      ],
+      "scale": 0.874873786407767
+    },
+    {
+      "frame": 5,
+      "source_rect": [
+        1024,
+        521,
+        1536,
+        1024
+      ],
+      "source_alpha_bbox": [
+        31,
+        2,
+        473,
+        503
+      ],
+      "placement": [
+        75,
+        43
+      ],
+      "scale": 0.874873786407767
+    }
+  ],
+  "frame_translation_px": [
+    0,
+    0,
+    0,
+    0,
+    0,
+    0
+  ],
+  "timeline_source_indices": [
+    0,
+    1,
+    2,
+    3,
+    4,
+    5
+  ],
+  "terminal_state": "idle"
+}

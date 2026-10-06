@@ -1,0 +1,41 @@
+# DSLPet 开发说明
+
+项目简介、安装方法、播放规则与许可证见 [根目录 README](../../README.md)。
+
+## 构建
+
+从仓库根目录执行：
+
+```sh
+python3 apps/dsl-pet/scripts/build.py
+```
+
+脚本使用系统 Swift 编译器构建原生 AppKit 应用，读取本目录独立的 `assets/`，复制控制桥和回复桥，生成 `dist/DSLPet.app` 并进行 ad-hoc 签名，最后运行内置状态机自检。
+
+当前应用版本 0.3.1，Bundle Build 8。已验证 macOS Apple Silicon，最低系统版本 macOS 13。无图片生成服务或 OpenCV 运行依赖。
+
+## 源码结构
+
+| 文件 | 责任 |
+| --- | --- |
+| `Sources/Engine.swift` | 动画播放、状态转换、随机选择、终帧保持与空闲计时 |
+| `Sources/App.swift` | 原生窗口、拖动、菜单、IPC 命令、状态输出与活动检测 |
+| `Sources/Notices.swift` | 铃铛、消息气泡、分页和通知 |
+| `Sources/Reply.swift` | 回复输入气泡、发送与草稿 |
+| `Sources/main.swift` | 应用入口及状态机自检 |
+| `scripts/bridge.py` | 文件 IPC 和 stdio MCP |
+| `scripts/reply.py` | 当前本地 Codex thread owner 的回复传输 |
+
+## 验证
+
+构建自检覆盖全部 21 组动画，以及接单 1 秒停留、纠正 2 秒停留、停止中断、完成无限保持、互动队列、循环 1 秒间隔、空闲 1.5 倍慢放 / 3 次重复与递增计时。
+
+本机此前完成过原生播放器、气泡分页、缩放、双击激活和回复输入界面检查。回复传输通过本地协议检查及真实 owner 的只读发现；完整真实模型回复流程尚待实际使用验证。
+
+`bridge.py snapshot` 保存当前播放器的缓存渲染到用户运行目录中的 `preview.png`；这是播放器缓存，不是桌面全屏截图。
+
+## 素材
+
+133 张 PNG：132 张动画帧和 1 张待机图，另有 22 个时序 / 索引 JSON。围裙 Logo 通过局部像素替换完成，其中 108 张有可见图案并修改，25 张因遮挡、背面或位于画外保留原图。尺寸、alpha 及 JSON 时序保持不变。
+
+素材权利独立于代码的 MIT 许可，见 [素材权利声明](../../ASSET_RIGHTS.md)。

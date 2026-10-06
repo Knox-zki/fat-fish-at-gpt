@@ -1,0 +1,179 @@
+{
+  "name": "举手提问",
+  "key": "14-question",
+  "frame_size": [
+    512,
+    512
+  ],
+  "frame_count": 6,
+  "playback_frame_order": [
+    0,
+    1,
+    2,
+    3,
+    4,
+    0
+  ],
+  "durations_ms": [
+    280,
+    220,
+    260,
+    300,
+    220,
+    320
+  ],
+  "loop": true,
+  "playback_mode": "loop",
+  "next_action": "idle",
+  "anchor": [
+    0.5,
+    0.94
+  ],
+  "atlas": "对齐六帧图.png",
+  "atlas_columns": 3,
+  "atlas_rows": 2,
+  "formats": {
+    "gif": "DeepSeek-Lite-举手提问.gif",
+    "webp": "DeepSeek-Lite-举手提问.webp",
+    "apng": "DeepSeek-Lite-举手提问.apng"
+  },
+  "source_frames": [
+    {
+      "frame": 0,
+      "source_rect": [
+        0,
+        0,
+        512,
+        514
+      ],
+      "source_alpha_bbox": [
+        47,
+        12,
+        471,
+        514
+      ],
+      "placement": [
+        73,
+        31
+      ],
+      "scale": 0.8957455268389662
+    },
+    {
+      "frame": 1,
+      "source_rect": [
+        512,
+        0,
+        1024,
+        514
+      ],
+      "source_alpha_bbox": [
+        42,
+        13,
+        458,
+        514
+      ],
+      "placement": [
+        74,
+        32
+      ],
+      "scale": 0.8957455268389662
+    },
+    {
+      "frame": 2,
+      "source_rect": [
+        1024,
+        0,
+        1536,
+        514
+      ],
+      "source_alpha_bbox": [
+        44,
+        15,
+        443,
+        514
+      ],
+      "placement": [
+        81,
+        34
+      ],
+      "scale": 0.8957455268389662
+    },
+    {
+      "frame": 3,
+      "source_rect": [
+        0,
+        514,
+        512,
+        1024
+      ],
+      "source_alpha_bbox": [
+        44,
+        6,
+        479,
+        509
+      ],
+      "placement": [
+        65,
+        30
+      ],
+      "scale": 0.8957455268389662
+    },
+    {
+      "frame": 4,
+      "source_rect": [
+        512,
+        514,
+        1024,
+        1024
+      ],
+      "source_alpha_bbox": [
+        41,
+        5,
+        461,
+        508
+      ],
+      "placement": [
+        72,
+        30
+      ],
+      "scale": 0.8957455268389662
+    },
+    {
+      "frame": 5,
+      "source_rect": [
+        1024,
+        514,
+        1536,
+        1024
+      ],
+      "source_alpha_bbox": [
+        38,
+        7,
+        463,
+        509
+      ],
+      "placement": [
+        73,
+        31
+      ],
+      "scale": 0.8957455268389662
+    }
+  ],
+  "frame_translation_px": [
+    0,
+    0,
+    0,
+    0,
+    0,
+    0
+  ],
+  "timeline_source_indices": [
+    0,
+    1,
+    2,
+    3,
+    4,
+    5
+  ],
+  "terminal_state": "idle"
+}

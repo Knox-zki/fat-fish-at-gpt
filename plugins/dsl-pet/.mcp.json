@@ -1,0 +1,12 @@
+{
+  "mcpServers": {
+    "dsl-pet": {
+      "command": "/usr/bin/python3",
+      "args": [
+        "-c",
+        "from pathlib import Path; import runpy; runpy.run_path(str(Path.home() / 'Applications/DSLPet.app/Contents/Resources/bridge.py'), run_name='__main__')",
+        "--mcp"
+      ]
+    }
+  }
+}

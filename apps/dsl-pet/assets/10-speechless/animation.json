@@ -1,0 +1,179 @@
+{
+  "name": "黑鸟无语",
+  "key": "10-speechless",
+  "frame_size": [
+    512,
+    512
+  ],
+  "frame_count": 6,
+  "playback_frame_order": [
+    0,
+    1,
+    2,
+    3,
+    4,
+    0
+  ],
+  "durations_ms": [
+    300,
+    220,
+    220,
+    240,
+    260,
+    300
+  ],
+  "loop": true,
+  "playback_mode": "loop",
+  "next_action": "idle",
+  "anchor": [
+    0.5,
+    0.94
+  ],
+  "atlas": "对齐六帧图.png",
+  "atlas_columns": 3,
+  "atlas_rows": 2,
+  "formats": {
+    "gif": "DeepSeek-Lite-黑鸟无语.gif",
+    "webp": "DeepSeek-Lite-黑鸟无语.webp",
+    "apng": "DeepSeek-Lite-黑鸟无语.apng"
+  },
+  "source_frames": [
+    {
+      "frame": 0,
+      "source_rect": [
+        0,
+        0,
+        512,
+        528
+      ],
+      "source_alpha_bbox": [
+        70,
+        44,
+        470,
+        528
+      ],
+      "placement": [
+        83,
+        51
+      ],
+      "scale": 0.8886785009861933
+    },
+    {
+      "frame": 1,
+      "source_rect": [
+        512,
+        0,
+        1024,
+        528
+      ],
+      "source_alpha_bbox": [
+        63,
+        47,
+        446,
+        528
+      ],
+      "placement": [
+        95,
+        54
+      ],
+      "scale": 0.8886785009861933
+    },
+    {
+      "frame": 2,
+      "source_rect": [
+        1024,
+        0,
+        1536,
+        528
+      ],
+      "source_alpha_bbox": [
+        86,
+        21,
+        455,
+        528
+      ],
+      "placement": [
+        101,
+        30
+      ],
+      "scale": 0.8886785009861933
+    },
+    {
+      "frame": 3,
+      "source_rect": [
+        0,
+        528,
+        512,
+        1024
+      ],
+      "source_alpha_bbox": [
+        96,
+        11,
+        474,
+        486
+      ],
+      "placement": [
+        86,
+        59
+      ],
+      "scale": 0.8886785009861933
+    },
+    {
+      "frame": 4,
+      "source_rect": [
+        512,
+        528,
+        1024,
+        1024
+      ],
+      "source_alpha_bbox": [
+        79,
+        34,
+        484,
+        486
+      ],
+      "placement": [
+        93,
+        79
+      ],
+      "scale": 0.8886785009861933
+    },
+    {
+      "frame": 5,
+      "source_rect": [
+        1024,
+        528,
+        1536,
+        1024
+      ],
+      "source_alpha_bbox": [
+        39,
+        23,
+        457,
+        486
+      ],
+      "placement": [
+        68,
+        70
+      ],
+      "scale": 0.8886785009861933
+    }
+  ],
+  "frame_translation_px": [
+    0,
+    0,
+    0,
+    0,
+    0,
+    0
+  ],
+  "timeline_source_indices": [
+    0,
+    1,
+    2,
+    3,
+    4,
+    5
+  ],
+  "terminal_state": "idle"
+}

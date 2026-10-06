@@ -1,0 +1,179 @@
+{
+  "name": "不开心",
+  "key": "02-unhappy",
+  "frame_size": [
+    512,
+    512
+  ],
+  "frame_count": 6,
+  "playback_frame_order": [
+    0,
+    1,
+    2,
+    3,
+    4,
+    0
+  ],
+  "durations_ms": [
+    280,
+    150,
+    200,
+    320,
+    180,
+    280
+  ],
+  "loop": true,
+  "playback_mode": "loop",
+  "next_action": "idle",
+  "anchor": [
+    0.5,
+    0.94
+  ],
+  "atlas": "对齐六帧图.png",
+  "atlas_columns": 3,
+  "atlas_rows": 2,
+  "formats": {
+    "gif": "DeepSeek-Lite-不开心.gif",
+    "webp": "DeepSeek-Lite-不开心.webp",
+    "apng": "DeepSeek-Lite-不开心.apng"
+  },
+  "source_frames": [
+    {
+      "frame": 0,
+      "source_rect": [
+        0,
+        0,
+        512,
+        528
+      ],
+      "source_alpha_bbox": [
+        32,
+        7,
+        477,
+        528
+      ],
+      "placement": [
+        70,
+        31
+      ],
+      "scale": 0.8631417624521073
+    },
+    {
+      "frame": 1,
+      "source_rect": [
+        512,
+        0,
+        1024,
+        528
+      ],
+      "source_alpha_bbox": [
+        38,
+        10,
+        484,
+        528
+      ],
+      "placement": [
+        85,
+        34
+      ],
+      "scale": 0.8631417624521073
+    },
+    {
+      "frame": 2,
+      "source_rect": [
+        1024,
+        0,
+        1536,
+        528
+      ],
+      "source_alpha_bbox": [
+        24,
+        6,
+        499,
+        528
+      ],
+      "placement": [
+        69,
+        30
+      ],
+      "scale": 0.8631417624521073
+    },
+    {
+      "frame": 3,
+      "source_rect": [
+        0,
+        528,
+        512,
+        1024
+      ],
+      "source_alpha_bbox": [
+        61,
+        8,
+        476,
+        493
+      ],
+      "placement": [
+        100,
+        62
+      ],
+      "scale": 0.8631417624521073
+    },
+    {
+      "frame": 4,
+      "source_rect": [
+        512,
+        528,
+        1024,
+        1024
+      ],
+      "source_alpha_bbox": [
+        38,
+        7,
+        480,
+        493
+      ],
+      "placement": [
+        80,
+        62
+      ],
+      "scale": 0.8631417624521073
+    },
+    {
+      "frame": 5,
+      "source_rect": [
+        1024,
+        528,
+        1536,
+        1024
+      ],
+      "source_alpha_bbox": [
+        31,
+        5,
+        477,
+        493
+      ],
+      "placement": [
+        74,
+        60
+      ],
+      "scale": 0.8631417624521073
+    }
+  ],
+  "frame_translation_px": [
+    0,
+    0,
+    0,
+    0,
+    0,
+    0
+  ],
+  "timeline_source_indices": [
+    0,
+    1,
+    2,
+    3,
+    4,
+    5
+  ],
+  "terminal_state": "idle"
+}

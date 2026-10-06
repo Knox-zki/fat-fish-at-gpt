@@ -1,0 +1,187 @@
+{
+  "name": "收拾东西推单车离场",
+  "key": "21-bicycle-exit",
+  "frame_size": [
+    640,
+    512
+  ],
+  "frame_count": 8,
+  "playback_frame_order": [
+    0,
+    1,
+    2,
+    3,
+    4,
+    5,
+    6,
+    7
+  ],
+  "durations_ms": [
+    280,
+    200,
+    360,
+    300,
+    180,
+    180,
+    220,
+    350
+  ],
+  "loop": false,
+  "playback_mode": "once",
+  "next_action": "hidden",
+  "anchor": [
+    0.5,
+    0.94
+  ],
+  "atlas": "对齐8帧图.png",
+  "atlas_columns": 4,
+  "atlas_rows": 2,
+  "formats": {
+    "gif": "DeepSeek-Lite-收拾东西推单车离场-v4.gif",
+    "webp": "DeepSeek-Lite-收拾东西推单车离场-v4.webp",
+    "apng": "DeepSeek-Lite-收拾东西推单车离场-v4.apng"
+  },
+  "source_frames": [
+    {
+      "frame": 0,
+      "source_rect": [
+        0,
+        0,
+        535,
+        521
+      ],
+      "source_alpha_bbox": [
+        46,
+        16,
+        535,
+        521
+      ],
+      "placement": [
+        51,
+        41
+      ],
+      "scale": 0.8719207920792079
+    },
+    {
+      "frame": 1,
+      "source_rect": [
+        535,
+        0,
+        1006,
+        521
+      ],
+      "source_alpha_bbox": [
+        15,
+        20,
+        460,
+        521
+      ],
+      "placement": [
+        96,
+        44
+      ],
+      "scale": 0.8719207920792079
+    },
+    {
+      "frame": 2,
+      "source_rect": [
+        1006,
+        0,
+        1536,
+        521
+      ],
+      "source_alpha_bbox": [
+        0,
+        16,
+        489,
+        521
+      ],
+      "placement": [
+        58,
+        41
+      ],
+      "scale": 0.8719207920792079
+    },
+    {
+      "frame": 3,
+      "source_rect": [
+        0,
+        521,
+        531,
+        1024
+      ],
+      "source_alpha_bbox": [
+        44,
+        0,
+        531,
+        476
+      ],
+      "placement": [
+        58,
+        66
+      ],
+      "scale": 0.8719207920792079
+    },
+    {
+      "frame": 4,
+      "source_rect": [
+        531,
+        521,
+        1021,
+        1024
+      ],
+      "source_alpha_bbox": [
+        7,
+        0,
+        471,
+        474
+      ],
+      "placement": [
+        91,
+        68
+      ],
+      "scale": 0.8719207920792079
+    },
+    {
+      "frame": 5,
+      "source_rect": [
+        1021,
+        521,
+        1536,
+        1024
+      ],
+      "source_alpha_bbox": [
+        0,
+        0,
+        486,
+        475
+      ],
+      "placement": [
+        73,
+        67
+      ],
+      "scale": 0.8719207920792079
+    }
+  ],
+  "frame_translation_px": [
+    0,
+    0,
+    0,
+    0,
+    -70,
+    -150,
+    -270,
+    0
+  ],
+  "timeline_source_indices": [
+    0,
+    1,
+    2,
+    3,
+    4,
+    5,
+    5,
+    null
+  ],
+  "terminal_state": "hidden"
+}

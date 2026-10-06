@@ -1,0 +1,179 @@
+{
+  "name": "点头接单",
+  "key": "11-accept",
+  "frame_size": [
+    512,
+    512
+  ],
+  "frame_count": 6,
+  "playback_frame_order": [
+    0,
+    1,
+    2,
+    3,
+    4,
+    5
+  ],
+  "durations_ms": [
+    240,
+    180,
+    220,
+    240,
+    260,
+    400
+  ],
+  "loop": false,
+  "playback_mode": "once",
+  "next_action": "idle",
+  "anchor": [
+    0.5,
+    0.94
+  ],
+  "atlas": "对齐六帧图.png",
+  "atlas_columns": 3,
+  "atlas_rows": 2,
+  "formats": {
+    "gif": "DeepSeek-Lite-点头接单.gif",
+    "webp": "DeepSeek-Lite-点头接单.webp",
+    "apng": "DeepSeek-Lite-点头接单.apng"
+  },
+  "source_frames": [
+    {
+      "frame": 0,
+      "source_rect": [
+        0,
+        0,
+        512,
+        534
+      ],
+      "source_alpha_bbox": [
+        36,
+        7,
+        483,
+        534
+      ],
+      "placement": [
+        74,
+        30
+      ],
+      "scale": 0.8549525616698292
+    },
+    {
+      "frame": 1,
+      "source_rect": [
+        512,
+        0,
+        1024,
+        534
+      ],
+      "source_alpha_bbox": [
+        49,
+        41,
+        493,
+        531
+      ],
+      "placement": [
+        100,
+        62
+      ],
+      "scale": 0.8549525616698292
+    },
+    {
+      "frame": 2,
+      "source_rect": [
+        1024,
+        0,
+        1536,
+        534
+      ],
+      "source_alpha_bbox": [
+        10,
+        7,
+        462,
+        534
+      ],
+      "placement": [
+        70,
+        30
+      ],
+      "scale": 0.8549525616698292
+    },
+    {
+      "frame": 3,
+      "source_rect": [
+        0,
+        534,
+        512,
+        1024
+      ],
+      "source_alpha_bbox": [
+        48,
+        5,
+        485,
+        490
+      ],
+      "placement": [
+        83,
+        66
+      ],
+      "scale": 0.8549525616698292
+    },
+    {
+      "frame": 4,
+      "source_rect": [
+        512,
+        534,
+        1024,
+        1024
+      ],
+      "source_alpha_bbox": [
+        28,
+        0,
+        456,
+        490
+      ],
+      "placement": [
+        84,
+        62
+      ],
+      "scale": 0.8549525616698292
+    },
+    {
+      "frame": 5,
+      "source_rect": [
+        1024,
+        534,
+        1536,
+        1024
+      ],
+      "source_alpha_bbox": [
+        28,
+        2,
+        455,
+        490
+      ],
+      "placement": [
+        84,
+        64
+      ],
+      "scale": 0.8549525616698292
+    }
+  ],
+  "frame_translation_px": [
+    0,
+    0,
+    0,
+    0,
+    0,
+    0
+  ],
+  "timeline_source_indices": [
+    0,
+    1,
+    2,
+    3,
+    4,
+    5
+  ],
+  "terminal_state": "idle"
+}

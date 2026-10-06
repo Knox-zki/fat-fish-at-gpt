@@ -1,0 +1,179 @@
+{
+  "name": "蹲着玩车车",
+  "key": "04-toy-car",
+  "frame_size": [
+    512,
+    512
+  ],
+  "frame_count": 6,
+  "playback_frame_order": [
+    0,
+    1,
+    2,
+    3,
+    4,
+    0
+  ],
+  "durations_ms": [
+    260,
+    180,
+    260,
+    180,
+    240,
+    260
+  ],
+  "loop": true,
+  "playback_mode": "loop",
+  "next_action": "idle",
+  "anchor": [
+    0.5,
+    0.94
+  ],
+  "atlas": "对齐六帧图.png",
+  "atlas_columns": 3,
+  "atlas_rows": 2,
+  "formats": {
+    "gif": "DeepSeek-Lite-蹲着玩车车.gif",
+    "webp": "DeepSeek-Lite-蹲着玩车车.webp",
+    "apng": "DeepSeek-Lite-蹲着玩车车.apng"
+  },
+  "source_frames": [
+    {
+      "frame": 0,
+      "source_rect": [
+        0,
+        0,
+        512,
+        512
+      ],
+      "source_alpha_bbox": [
+        36,
+        13,
+        512,
+        499
+      ],
+      "placement": [
+        66,
+        40
+      ],
+      "scale": 0.9083870967741936
+    },
+    {
+      "frame": 1,
+      "source_rect": [
+        512,
+        0,
+        1024,
+        512
+      ],
+      "source_alpha_bbox": [
+        29,
+        22,
+        501,
+        497
+      ],
+      "placement": [
+        63,
+        50
+      ],
+      "scale": 0.9083870967741936
+    },
+    {
+      "frame": 2,
+      "source_rect": [
+        1024,
+        0,
+        1536,
+        512
+      ],
+      "source_alpha_bbox": [
+        25,
+        26,
+        503,
+        496
+      ],
+      "placement": [
+        62,
+        54
+      ],
+      "scale": 0.9083870967741936
+    },
+    {
+      "frame": 3,
+      "source_rect": [
+        0,
+        512,
+        522,
+        1024
+      ],
+      "source_alpha_bbox": [
+        26,
+        6,
+        522,
+        471
+      ],
+      "placement": [
+        43,
+        59
+      ],
+      "scale": 0.9083870967741936
+    },
+    {
+      "frame": 4,
+      "source_rect": [
+        522,
+        512,
+        1024,
+        1024
+      ],
+      "source_alpha_bbox": [
+        31,
+        6,
+        493,
+        477
+      ],
+      "placement": [
+        68,
+        53
+      ],
+      "scale": 0.9083870967741936
+    },
+    {
+      "frame": 5,
+      "source_rect": [
+        1024,
+        512,
+        1536,
+        1024
+      ],
+      "source_alpha_bbox": [
+        25,
+        6,
+        500,
+        483
+      ],
+      "placement": [
+        65,
+        48
+      ],
+      "scale": 0.9083870967741936
+    }
+  ],
+  "frame_translation_px": [
+    0,
+    0,
+    0,
+    0,
+    0,
+    0
+  ],
+  "timeline_source_indices": [
+    0,
+    1,
+    2,
+    3,
+    4,
+    5
+  ],
+  "terminal_state": "idle"
+}

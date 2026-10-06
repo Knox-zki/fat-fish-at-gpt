@@ -1,0 +1,179 @@
+{
+  "name": "趴着看书打瞌睡",
+  "key": "18-doze",
+  "frame_size": [
+    512,
+    512
+  ],
+  "frame_count": 6,
+  "playback_frame_order": [
+    0,
+    1,
+    2,
+    3,
+    4,
+    0
+  ],
+  "durations_ms": [
+    300,
+    240,
+    280,
+    300,
+    200,
+    320
+  ],
+  "loop": true,
+  "playback_mode": "loop",
+  "next_action": "idle",
+  "anchor": [
+    0.5,
+    0.94
+  ],
+  "atlas": "对齐六帧图.png",
+  "atlas_columns": 3,
+  "atlas_rows": 2,
+  "formats": {
+    "gif": "DeepSeek-Lite-趴着看书打瞌睡.gif",
+    "webp": "DeepSeek-Lite-趴着看书打瞌睡.webp",
+    "apng": "DeepSeek-Lite-趴着看书打瞌睡.apng"
+  },
+  "source_frames": [
+    {
+      "frame": 0,
+      "source_rect": [
+        0,
+        0,
+        512,
+        512
+      ],
+      "source_alpha_bbox": [
+        20,
+        79,
+        497,
+        475
+      ],
+      "placement": [
+        59,
+        109
+      ],
+      "scale": 0.9406263048016702
+    },
+    {
+      "frame": 1,
+      "source_rect": [
+        512,
+        0,
+        1024,
+        512
+      ],
+      "source_alpha_bbox": [
+        23,
+        104,
+        479,
+        475
+      ],
+      "placement": [
+        78,
+        132
+      ],
+      "scale": 0.9406263048016702
+    },
+    {
+      "frame": 2,
+      "source_rect": [
+        1024,
+        0,
+        1536,
+        512
+      ],
+      "source_alpha_bbox": [
+        27,
+        117,
+        487,
+        476
+      ],
+      "placement": [
+        68,
+        143
+      ],
+      "scale": 0.9406263048016702
+    },
+    {
+      "frame": 3,
+      "source_rect": [
+        0,
+        512,
+        512,
+        1024
+      ],
+      "source_alpha_bbox": [
+        27,
+        108,
+        506,
+        458
+      ],
+      "placement": [
+        57,
+        152
+      ],
+      "scale": 0.9406263048016702
+    },
+    {
+      "frame": 4,
+      "source_rect": [
+        512,
+        512,
+        1024,
+        1024
+      ],
+      "source_alpha_bbox": [
+        23,
+        45,
+        498,
+        446
+      ],
+      "placement": [
+        61,
+        104
+      ],
+      "scale": 0.9406263048016702
+    },
+    {
+      "frame": 5,
+      "source_rect": [
+        1024,
+        512,
+        1536,
+        1024
+      ],
+      "source_alpha_bbox": [
+        11,
+        76,
+        483,
+        459
+      ],
+      "placement": [
+        64,
+        121
+      ],
+      "scale": 0.9406263048016702
+    }
+  ],
+  "frame_translation_px": [
+    0,
+    0,
+    0,
+    0,
+    0,
+    0
+  ],
+  "timeline_source_indices": [
+    0,
+    1,
+    2,
+    3,
+    4,
+    5
+  ],
+  "terminal_state": "idle"
+}

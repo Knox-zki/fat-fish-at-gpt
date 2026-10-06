@@ -1,0 +1,179 @@
+{
+  "name": "翻书查资料",
+  "key": "13-research",
+  "frame_size": [
+    512,
+    512
+  ],
+  "frame_count": 6,
+  "playback_frame_order": [
+    0,
+    1,
+    2,
+    3,
+    4,
+    0
+  ],
+  "durations_ms": [
+    240,
+    220,
+    240,
+    260,
+    220,
+    320
+  ],
+  "loop": true,
+  "playback_mode": "loop",
+  "next_action": "idle",
+  "anchor": [
+    0.5,
+    0.94
+  ],
+  "atlas": "对齐六帧图.png",
+  "atlas_columns": 3,
+  "atlas_rows": 2,
+  "formats": {
+    "gif": "DeepSeek-Lite-翻书查资料.gif",
+    "webp": "DeepSeek-Lite-翻书查资料.webp",
+    "apng": "DeepSeek-Lite-翻书查资料.apng"
+  },
+  "source_frames": [
+    {
+      "frame": 0,
+      "source_rect": [
+        0,
+        0,
+        512,
+        520
+      ],
+      "source_alpha_bbox": [
+        44,
+        5,
+        477,
+        520
+      ],
+      "placement": [
+        78,
+        30
+      ],
+      "scale": 0.874873786407767
+    },
+    {
+      "frame": 1,
+      "source_rect": [
+        512,
+        0,
+        1024,
+        520
+      ],
+      "source_alpha_bbox": [
+        40,
+        5,
+        482,
+        520
+      ],
+      "placement": [
+        78,
+        30
+      ],
+      "scale": 0.874873786407767
+    },
+    {
+      "frame": 2,
+      "source_rect": [
+        1024,
+        0,
+        1536,
+        520
+      ],
+      "source_alpha_bbox": [
+        54,
+        5,
+        489,
+        520
+      ],
+      "placement": [
+        79,
+        30
+      ],
+      "scale": 0.874873786407767
+    },
+    {
+      "frame": 3,
+      "source_rect": [
+        0,
+        520,
+        512,
+        1024
+      ],
+      "source_alpha_bbox": [
+        43,
+        3,
+        483,
+        504
+      ],
+      "placement": [
+        78,
+        43
+      ],
+      "scale": 0.874873786407767
+    },
+    {
+      "frame": 4,
+      "source_rect": [
+        512,
+        520,
+        1024,
+        1024
+      ],
+      "source_alpha_bbox": [
+        31,
+        3,
+        483,
+        504
+      ],
+      "placement": [
+        75,
+        43
+      ],
+      "scale": 0.874873786407767
+    },
+    {
+      "frame": 5,
+      "source_rect": [
+        1024,
+        520,
+        1536,
+        1024
+      ],
+      "source_alpha_bbox": [
+        45,
+        3,
+        486,
+        504
+      ],
+      "placement": [
+        78,
+        43
+      ],
+      "scale": 0.874873786407767
+    }
+  ],
+  "frame_translation_px": [
+    0,
+    0,
+    0,
+    0,
+    0,
+    0
+  ],
+  "timeline_source_indices": [
+    0,
+    1,
+    2,
+    3,
+    4,
+    5
+  ],
+  "terminal_state": "idle"
+}
