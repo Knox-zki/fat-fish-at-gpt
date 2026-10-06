@@ -134,6 +134,18 @@ docs/previews/       项目展示图片与动画
 
 运行数据位于 `~/Library/Application Support/DSLPet`。构建产物、虚拟环境、开发阶段截图、旧版应用备份与原素材仓库不纳入本仓库。
 
+## 版本同步
+
+本项目以 NAS Forgejo 为主仓库，GitHub 为单向公开镜像。在维护者当前工作区中执行：
+
+```sh
+git push
+```
+
+该命令将提交推送到 Forgejo 和 NAS 异盘 Git 备份；Forgejo 收到推送后自动同步到 GitHub，并每小时检查一次。无需再单独推送 GitHub。其他克隆需要自行配置对应的远程与上游。
+
+镜像通过仅限本仓库的可写部署密钥认证。同步范围是 Git 分支、标签和提交，不包含仓库简介、Issues、PR 或其他平台设置。GitHub 上直接修改的内容不会自动回传；日常修改应先进入本地和 Forgejo。
+
 ## 许可证与素材权利
 
 **源代码使用 [MIT License](LICENSE)。素材不进行授权。**

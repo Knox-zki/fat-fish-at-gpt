@@ -134,6 +134,18 @@ Builds read directly from `apps/dsl-pet/assets`, with no dependency on the origi
 
 Runtime data is stored in `~/Library/Application Support/DSLPet`. Build outputs, virtual environments, development screenshots, previous app backups, and the original asset library are excluded from this repository.
 
+## Repository synchronization
+
+NAS Forgejo is the primary repository; GitHub is its public, one-way push mirror. In the maintainer's configured local checkout, run:
+
+```sh
+git push
+```
+
+This pushes to Forgejo and the NAS Git backup on a separate disk. Forgejo then synchronizes to GitHub when it receives a push, with an additional hourly check. A separate GitHub push is unnecessary. Other clones need their own remote and upstream configuration.
+
+The mirror authenticates with a writable deploy key limited to this repository. It synchronizes Git branches, tags, and commits, not repository descriptions, issues, pull requests, or other platform settings. Changes made directly on GitHub do not flow back automatically; make routine changes locally and push them to Forgejo first.
+
 ## License and asset rights
 
 **Source code is licensed under the [MIT License](LICENSE). No license is granted for the visual assets.**
