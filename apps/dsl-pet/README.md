@@ -39,3 +39,24 @@ python3 apps/dsl-pet/scripts/build.py
 133 张 PNG：132 张动画帧和 1 张待机图，另有 22 个时序 / 索引 JSON。围裙 Logo 通过局部像素替换完成，其中 108 张有可见图案并修改，25 张因遮挡、背面或位于画外保留原图。尺寸、alpha 及 JSON 时序保持不变。
 
 素材权利独立于代码的 MIT 许可，见 [素材权利声明](../../ASSET_RIGHTS.md)。
+
+## 安装配套应用和插件
+
+从仓库根目录完成构建后，将应用安装到控制桥约定的位置：
+
+```sh
+# 更新前从桌宠菜单退出旧版；保留用户设置
+mkdir -p "$HOME/Applications"
+cp -R apps/dsl-pet/dist/DSLPet.app "$HOME/Applications/"
+open "$HOME/Applications/DSLPet.app"
+
+# 注册当前仓库的本地市场并安装插件
+codex plugin marketplace add .
+codex plugin add dsl-pet@q-ai-local
+```
+
+若客户端没有 `codex` 命令或不支持本地市场，应先说明该限制；不要将本插件装成官方 Pets 的宠物皮肤。已有同名市场时检查其路径，避免覆盖其他工作区的配置。安装后按客户端提示重载插件或重新打开聊天，再确认 `dsl_pet_status` 工具可用且桌宠运行。
+
+应用与官方 Pets 使用不同的应用、插件包和控制桥。本插件不调用官方宠物的上传或选择接口，安装时保留官方 Pets 的安装状态与选择。
+
+插件安装方式参考 [OpenAI 官方插件文档](https://developers.openai.com/plugins/build/plugins)。
