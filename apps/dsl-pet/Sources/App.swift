@@ -158,7 +158,7 @@ final class Controller: NSObject, NSApplicationDelegate, NSWindowDelegate, NSTex
         m.addItem(menuItem("暂停 / 继续",#selector(togglePause)));m.addItem(.separator())
         let size=NSMenuItem(title:"显示大小",action:nil,keyEquivalent:""),sizes=NSMenu()
         for h in [192,256,320,384,512] {sizes.addItem(menuItem("\(h) px 高",#selector(resizePet(_:)),String(h)))};size.submenu=sizes;m.addItem(size)
-        let preview=NSMenuItem(title:"预览全部 21 个动作",action:nil,keyEquivalent:""),actions=NSMenu()
+        let preview=NSMenuItem(title:"预览全部 \(engine?.animations.count ?? 0) 个动作",action:nil,keyEquivalent:""),actions=NSMenu()
         if let engine {for a in engine.animations.values.sorted(by:{$0.key<$1.key}) {actions.addItem(menuItem(a.name,#selector(previewAction(_:)),a.key))}};preview.submenu=actions;m.addItem(preview)
         m.addItem(menuItem("消息与回复",#selector(toggleNotices)));m.addItem(menuItem("控制与状态面板",#selector(showDebug)));m.addItem(menuItem("离场并隐藏",#selector(hidePet)));m.addItem(menuItem("离场并退出",#selector(quitPet)));return m
     }

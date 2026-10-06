@@ -78,7 +78,12 @@ final class PetEngine {
         if corrected { corrected = false; play("16-revise",mode:"completed",after:"hold") }
         else { play(pick([("15-result",70),("01-proud",30)],category:"complete"),mode:"completed",after:"hold") }
     }
-    func work() { let key = workingKind == "research" ? "13-research" : (workingKind == "mixed" ? pick([("12-think",65),("13-research",35)],category:"work") : "12-think"); play(key,mode:"working",after:pendingCompletion ? "finishTask" : "work") }
+    func work() {
+        let thinking = [("12-think",25),("22-laptop",30),("24-ponder",25),("25-count",20)]
+        let research = [("13-research",50),("23-magnifier",50)]
+        let pool = workingKind == "research" ? research : (workingKind == "mixed" ? thinking + research : thinking)
+        play(pick(pool,category:"work"),mode:"working",after:pendingCompletion ? "finishTask" : "work")
+    }
     func interaction() {
         let key = pick([("01-proud",25),("08-spin",15),("19-peek",25),("05-rice",25),("07-idea",8),("10-speechless",2)],category:"interaction")
         play(key,mode:"interaction",after:"interactionHold")
@@ -95,7 +100,7 @@ final class PetEngine {
         case "thinking", "tool_search":
             if e.event == "tool_search" { workingKind = "research" }
             if mode == "accepting" || mode == "apology" { break }
-            if mode == "working", (e.event != "tool_search" || action == "13-research") { break }
+            if mode == "working", (e.event != "tool_search" || ["13-research","23-magnifier"].contains(action)) { break }
             work()
         case "needs_clarification": play("14-question",mode:"waiting",after:"wait")
         case "task_completed":

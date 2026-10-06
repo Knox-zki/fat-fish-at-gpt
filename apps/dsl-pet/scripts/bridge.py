@@ -23,7 +23,7 @@ def send(event,kind=None,action=None,**notice):
  if kind not in [None,'thinking','research','mixed']:raise ValueError('Unknown kind')
  if event=='notify':validate_notice(notice)
  elif notice:raise ValueError('Notice fields require notify event')
- if event=='preview' and action not in [f'{i:02d}-{n}' for i,n in enumerate(['proud','unhappy','apology','toy-car','rice','yawn','idea','spin','dizzy','speechless','accept','think','research','question','result','revise','stop','doze','peek','bicycle','bicycle-exit'],1)]:raise ValueError('Unknown action')
+ if event=='preview' and action not in [f'{i:02d}-{n}' for i,n in enumerate(['proud','unhappy','apology','toy-car','rice','yawn','idea','spin','dizzy','speechless','accept','think','research','question','result','revise','stop','doze','peek','bicycle','bicycle-exit','laptop','magnifier','ponder','count'],1)]:raise ValueError('Unknown action')
  ensure();commands=BASE/'commands';commands.mkdir(parents=True,exist_ok=True,mode=0o700)
  ident=uuid.uuid4().hex;name=f'{time.time_ns():020d}-{ident}.json';payload={'id':ident,'event':event}
  if kind:payload['kind']=kind

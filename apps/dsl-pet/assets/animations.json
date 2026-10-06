@@ -3781,5 +3781,129 @@
       null
     ],
     "terminal_state": "hidden"
+  },
+  {
+    "name": "敲电脑",
+    "key": "22-laptop",
+    "frame_size": [
+      512,
+      512
+    ],
+    "frame_count": 6,
+    "playback_frame_order": [
+      0,
+      1,
+      2,
+      3,
+      4,
+      5
+    ],
+    "durations_ms": [
+      300,
+      300,
+      440,
+      440,
+      300,
+      320
+    ],
+    "loop": true,
+    "playback_mode": "loop",
+    "anchor": [
+      0.5,
+      0.94
+    ]
+  },
+  {
+    "name": "放大镜查资料",
+    "key": "23-magnifier",
+    "frame_size": [
+      512,
+      512
+    ],
+    "frame_count": 6,
+    "playback_frame_order": [
+      0,
+      1,
+      2,
+      3,
+      4,
+      5
+    ],
+    "durations_ms": [
+      300,
+      300,
+      440,
+      440,
+      300,
+      320
+    ],
+    "loop": true,
+    "playback_mode": "loop",
+    "anchor": [
+      0.5,
+      0.94
+    ]
+  },
+  {
+    "name": "拿本子认真推敲",
+    "key": "24-ponder",
+    "frame_size": [
+      512,
+      512
+    ],
+    "frame_count": 6,
+    "playback_frame_order": [
+      0,
+      1,
+      2,
+      3,
+      4,
+      5
+    ],
+    "durations_ms": [
+      300,
+      300,
+      440,
+      440,
+      300,
+      320
+    ],
+    "loop": true,
+    "playback_mode": "loop",
+    "anchor": [
+      0.5,
+      0.94
+    ]
+  },
+  {
+    "name": "掰手指数数",
+    "key": "25-count",
+    "frame_size": [
+      512,
+      512
+    ],
+    "frame_count": 6,
+    "playback_frame_order": [
+      0,
+      1,
+      2,
+      3,
+      4,
+      5
+    ],
+    "durations_ms": [
+      300,
+      300,
+      440,
+      440,
+      300,
+      320
+    ],
+    "loop": true,
+    "playback_mode": "loop",
+    "anchor": [
+      0.5,
+      0.94
+    ]
   }
 ]

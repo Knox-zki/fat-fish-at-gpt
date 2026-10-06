@@ -6,7 +6,7 @@
 
 Big Fat Fish has come to work in your Codex to earn a bowl of rice. Wearing a GPT apron with the ChatGPT logo, it is ready to be your desktop coworker. It takes its tasks seriously—and keeps an eye on lunchtime. It thinks, reads, presents its work, and occasionally strikes a proud pose. Between tasks, it plays with a toy car, eats, or lets a little black bird fly overhead.
 
-![Big Fat Fish's 21 animations](docs/previews/all-actions.jpg)
+![Big Fat Fish's 25 animations](docs/previews/all-actions.jpg)
 
 ## What it does
 
@@ -14,7 +14,7 @@ Big Fat Fish has come to work in your Codex to earn a bowl of rice. Wearing a GP
 - **Lives on your desktop**: floats above ordinary windows, with dragging, resizing, and an option to hide it whenever you like.
 - **Brings messages closer**: a small bell signals unread messages, and reply summaries appear in white thought bubbles with blue outlines.
 - **Helps you continue the conversation**: open a reply composer from the bubble, or double-click the pet to return to Codex.
-- **Has a life between tasks**: eating, toy cars, peeking, yawning, and more—21 animations in total.
+- **Has a life between tasks**: eating, toy cars, peeking, yawning, and more—25 animations in total.
 
 ## Ask Codex to install it
 
