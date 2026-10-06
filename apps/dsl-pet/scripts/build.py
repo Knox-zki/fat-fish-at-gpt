@@ -13,7 +13,7 @@ for a in manifest:
 for n in ['animations.json','待机.png']:shutil.copy2(assets/n,res/'assets'/n)
 shutil.copy2(root/'scripts/bridge.py',res/'bridge.py')
 shutil.copy2(root/'scripts/reply.py',res/'reply.py')
-info={'CFBundleExecutable':'DSLPet','CFBundleIdentifier':'local.chennuo.dsl-pet','CFBundleName':'小 DSL','CFBundleDisplayName':'小 DSL 悬浮桌宠','CFBundleVersion':'9','CFBundleShortVersionString':'0.4.0','CFBundlePackageType':'APPL','LSUIElement':True,'NSHighResolutionCapable':True,'LSMinimumSystemVersion':'13.0'}
+info={'CFBundleExecutable':'DSLPet','CFBundleIdentifier':'local.chennuo.dsl-pet','CFBundleName':'小 DSL','CFBundleDisplayName':'小 DSL 悬浮桌宠','CFBundleVersion':'10','CFBundleShortVersionString':'0.4.1','CFBundlePackageType':'APPL','LSUIElement':True,'NSHighResolutionCapable':True,'LSMinimumSystemVersion':'13.0'}
 with (app/'Contents/Info.plist').open('wb') as f:plistlib.dump(info,f)
 subprocess.run(['/usr/bin/codesign','--force','--sign','-',str(app)],check=True)
 subprocess.run([str(mac/'DSLPet'),'--self-test',str(res/'assets/animations.json')],check=True)

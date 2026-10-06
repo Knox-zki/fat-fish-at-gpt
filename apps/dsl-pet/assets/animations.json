@@ -3789,22 +3789,26 @@
       512,
       512
     ],
-    "frame_count": 6,
+    "frame_count": 8,
     "playback_frame_order": [
       0,
       1,
       2,
       3,
       4,
-      5
+      5,
+      6,
+      7
     ],
     "durations_ms": [
-      300,
-      300,
-      440,
-      440,
-      300,
-      320
+      280,
+      280,
+      350,
+      480,
+      500,
+      350,
+      330,
+      330
     ],
     "loop": true,
     "playback_mode": "loop",
