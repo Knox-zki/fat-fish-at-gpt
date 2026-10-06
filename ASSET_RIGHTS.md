@@ -9,3 +9,17 @@
 **若侵犯了第三方权利，请与我联系。**
 
 联系渠道：在 [GitHub Issues](https://github.com/Knox-zki/gpt-working-fat-fish/issues) 中提出，或通过 [GitHub 个人主页](https://github.com/Knox-zki) 上提供的联系方式联系维护者。请说明相关素材、权利依据及希望采取的处理方式。
+
+---
+
+# Asset Rights Statement
+
+The source code is licensed under MIT. The MIT license does not apply to character designs, character images, animation frames, logos, screenshots, or other visual assets.
+
+**No permission is granted by this project to use, copy, modify, redistribute, or commercially exploit the visual assets.** Their display or availability in a public repository does not grant a license or assert ownership of any third-party rights that may be involved.
+
+This scope includes the visual assets in `apps/dsl-pet/assets/`, the images and animation previews in `docs/previews/`, and other visual content. Third-party names and marks belong to their respective rights holders.
+
+**If any material infringes third-party rights, please contact me.**
+
+Contact: open an [issue on GitHub](https://github.com/Knox-zki/gpt-working-fat-fish/issues), or use the contact information provided on my [GitHub profile](https://github.com/Knox-zki). Please identify the material, the basis of your rights claim, and your requested action.
