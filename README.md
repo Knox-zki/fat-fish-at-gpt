@@ -22,7 +22,7 @@
 
 ```text
 请帮我安装“在GPT打工的大肥鱼”Codex 插件：
-https://github.com/Knox-zki/gpt-working-fat-fish
+https://github.com/Knox-zki/fat-fish-at-gpt
 
 请读取项目文档，把项目下载到独立目录，构建并安装配套桌宠应用到
 ~/Applications/DSLPet.app，再注册本项目的插件市场并安装 dsl-pet。
@@ -56,4 +56,4 @@ https://github.com/Knox-zki/gpt-working-fat-fish
 
 角色形象、图片、动画、Logo 及其他视觉素材不属于 MIT 授权范围。公开展示不代表授予使用或再分发许可；第三方名称与标识的权利归各自权利人所有。
 
-**若侵犯了第三方权利，请与我联系。** 可通过 [Issues](https://github.com/Knox-zki/gpt-working-fat-fish/issues) 或 [GitHub 个人主页](https://github.com/Knox-zki) 联系维护者。完整声明见 [ASSET_RIGHTS.md](ASSET_RIGHTS.md)。
+**若侵犯了第三方权利，请与我联系。** 可通过 [Issues](https://github.com/Knox-zki/fat-fish-at-gpt/issues) 或 [GitHub 个人主页](https://github.com/Knox-zki) 联系维护者。完整声明见 [ASSET_RIGHTS.md](ASSET_RIGHTS.md)。

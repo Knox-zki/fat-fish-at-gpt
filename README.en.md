@@ -22,7 +22,7 @@ Copy this prompt into a **local Codex chat on your Mac**:
 
 ```text
 Please install the “Big Fat Fish at GPT” Codex plugin:
-https://github.com/Knox-zki/gpt-working-fat-fish
+https://github.com/Knox-zki/fat-fish-at-gpt
 
 Read the project documentation and download it into a separate directory.
 Build and install the companion app at ~/Applications/DSLPet.app, then register
@@ -60,4 +60,4 @@ See the [development notes](apps/dsl-pet/README.md). The assets are bundled inde
 
 Character designs, images, animations, logos, and other visual assets are excluded from the MIT license. Public display does not grant permission to use or redistribute them. Third-party names and marks belong to their respective rights holders.
 
-**If any material infringes third-party rights, please contact me.** Use [Issues](https://github.com/Knox-zki/gpt-working-fat-fish/issues) or the contact information on my [GitHub profile](https://github.com/Knox-zki). See [ASSET_RIGHTS.md](ASSET_RIGHTS.md) for the full statement.
+**If any material infringes third-party rights, please contact me.** Use [Issues](https://github.com/Knox-zki/fat-fish-at-gpt/issues) or the contact information on my [GitHub profile](https://github.com/Knox-zki). See [ASSET_RIGHTS.md](ASSET_RIGHTS.md) for the full statement.
